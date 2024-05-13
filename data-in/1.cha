@@ -1,0 +1,2832 @@
+@UTF8
+@PID:	11312/a-00070445-1
+@Begin
+@Languages:	fra
+@Participants:	FAT Father, CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	fra|Geneva|FAT||male|||Father|||
+@ID:	fra|Geneva|CHI|1;08.26||||Target_Child|||
+@ID:	fra|Geneva|MOT||female|||Mother|||
+@Media:	010826, audio, unlinked
+@Location:	at home , Geneva , CH
+@Date:	11-NOV-1995
+@Time Duration:	9:00-9:45
+@Comment:	Marie prononce la plupart du temps [z] pour &=0j et &=0ge et [s] pour (ch)
+@Comment:	MLU is 1.641
+@Types:	long, toyplay, TD
+*FAT:	alors Marie (.) qu'est-ce que tu veux faire ?
+%mor:	adv|alors noun|Marie noun|questce pron|que-Rel-Acc-S1 pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|faire-Inf-S ?
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|FLAT-NAME 4|7|OBJ 5|6|NSUBJ 6|2|ACL-RELCL 7|6|XCOMP 8|2|PUNCT
+*FAT:	avec quoi tu joues lÃ  ?
+%mor:	adp|avec pron|quoi-Int-Acc-S1 pron|toi-Prs-Nom-S2 verb|jouer-Fin-Ind-Pres-S2 adv|lÃ  ?
+%gra:	1|2|CASE 2|4|OBL-ARG 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	le cocodicoda@c .
+%mor:	det|le-Masc-Def-Art noun|cocodicoda-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%com:	nom d'une chanson; Marie chante des variations sur le mot .
+*CHI:	non papa .
+%mor:	adv|non noun|papa-Masc .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	on fait le petit canard ?
+%mor:	pron|on-Ind-S3 verb|faire-Fin-Ind-Pres-S3 det|le-Masc-Def-Art adj|petit-Pos-S1 noun|canard-Masc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux pas faire le canard ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 adv|pas verb|faire-Inf-S det|le-Masc-Def-Art noun|canard-Masc ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|ADVMOD 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	non (.) pas lÃ  .
+%mor:	adv|non adv|pas adv|lÃ  .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux te coucher ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|toi-Prs-Acc-S2 verb|coucher-Inf-S ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	non papa .
+%mor:	adv|non noun|papa-Masc .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	lÃ  [/] (.) lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hein ?
+%mor:	intj|hein ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hein ?
+%mor:	intj|hein ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	non [/] non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pas canard .
+%mor:	adv|pas noun|canard-Masc .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	pas l(e) canard ?
+%mor:	adv|pas det|le-Masc-Def-Art noun|canard-Masc ?
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	pas canard .
+%mor:	adv|pas noun|canard-Masc .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*FAT:	alors on met +//.
+%mor:	adv|alors pron|on-Ind-S3 verb|mettre-Fin-Ind-Pres-S3 +//.
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*FAT:	on met l(e) canard de cÃ´tÃ© .
+%mor:	pron|on-Ind-S3 verb|mettre-Fin-Ind-Pres-S3 det|le-Masc-Def-Art noun|canard-Masc adp|de noun|cÃ´tÃ©-Masc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL-MOD 7|2|PUNCT
+*CHI:	non papa .
+%mor:	adv|non noun|papa-Masc .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qu'est-ce que tu veux faire ?
+%mor:	intj|questce pron|que-Rel-Acc-S1 pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|faire-Inf-S ?
+%gra:	1|5|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+*FAT:	hein ?
+%mor:	intj|hein ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qu'est-ce que tu veux faire ?
+%mor:	intj|questce pron|que-Rel-Acc-S1 pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|faire-Inf-S ?
+%gra:	1|5|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+*FAT:	il faut que j(e) me couche ?
+%mor:	pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 sconj|que pron|moi-Prs-Nom-S1 pron|moi-Prs-Acc-S1 verb|couche-Fin-Ind-Pres-S1 ?
+%gra:	1|2|EXPL-SUBJ 2|6|ROOT 3|6|MARK 4|6|NSUBJ 5|6|OBJ 6|2|CCOMP 7|2|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'est toi qui te couches alors (.) non ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|toi-Prs-Nom-S2 pron|qui-Rel-Nom-S1 pron|toi-Prs-Acc-S2 verb|couche-Fin-Ind-Pres-P2 adv|alors adv|non ?
+%gra:	1|3|EXPL-SUBJ 2|3|COP 3|8|ROOT 4|6|NSUBJ 5|6|OBJ 6|3|ADVCL-CLEFT 7|3|DISCOURSE 8|3|DISCOURSE 9|3|PUNCT
+*FAT:	tu veux jouer avec tes boules ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|jouer-Inf-S adp|avec det|son-Def-Prs noun|boule-Fem-Plur ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL-ARG 7|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais ?
+%mor:	intj|ouais ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	dans la maison alors ?
+%mor:	adp|dans det|le-Fem-Def-Art noun|maison-Fem adv|alors ?
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	alors [/] alors [/] alors .
+%mor:	adv|alors .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie rÃ©pÃ¨te plusieurs fois le mot .
+*CHI:	xxx lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<co(mme) Ã§a> [/] <co(mme) Ã§a> [/] co(mme) Ã§a ?
+%mor:	adp|comme pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*FAT:	ouais (.) comme Ã§a .
+%mor:	intj|ouais adp|comme pron|Ã§a-Dem-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL-MOD 4|1|PUNCT
+*FAT:	xxx .
+*FAT:	alors +/.
+%mor:	adv|alors +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx dans l'eau .
+%mor:	adp|dans det|le-Def-Art~noun|eau-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+%com:	Marie babille
+*CHI:	va dans l'eau xxx .
+%mor:	verb|aller-Fin-Ind-Pres-S3 adp|dans det|le-Def-Art~noun|eau-Fem .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL-ARG 5|1|PUNCT
+*FAT:	c'est lequel c(el)ui-lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|lequel-Rel-S1 adj|celuilÃ -Pos-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*CHI:	xxx un papon@wp .
+%mor:	det|un-Masc-Ind-Art noun|paponp-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	c'est un poisson .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|poisson-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*FAT:	c'est un poisson (.) oui .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|poisson-Masc intj|oui .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*CHI:	co(mme) Ã§a ?
+%mor:	adp|comme pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*FAT:	i(l) va oÃ¹ ?
+%mor:	pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 pron|oÃ¹-Rel-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	i(l) va oÃ¹ le poisson ?
+%mor:	pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 pron|oÃ¹-Rel-S1 det|le-Masc-Def-Art noun|poisson-Masc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBL-MOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	<co(mme) Ã§a> [/] co(mme) Ã§a ?
+%mor:	adp|comme pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*FAT:	on peut faire c(el)ui-lÃ  aussi (.) oui .
+%mor:	pron|on-Ind-S3 verb|pouvoir-Fin-Ind-Pres-S3 verb|faire-Inf-S verb|celuilÃ r-Inf-S adv|aussi intj|oui .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|3|XCOMP 5|4|ADVMOD 6|4|DISCOURSE 7|2|PUNCT
+*FAT:	voilÃ  (.) on le lÃ¨ve plus .
+%mor:	verb|voilÃ -Inf-S pron|on-Ind-S3 pron|lui-Prs-Acc-S3 verb|lever-Fin-Ind-Pres-S3 adv|plus .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	lÃ  (.) lÃ  .
+%mor:	adv|lÃ  adv|lÃ  .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	Ã§a c'est quoi ?
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 intj|quoi ?
+%gra:	1|3|DISLOCATED 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	nunununus@c .
+%mor:	x|nunununus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'est un nounours (.) oui .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|nounour-Masc intj|oui .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*FAT:	il va oÃ¹ le nounours ?
+%mor:	pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 pron|oÃ¹-Rel-S1 det|le-Masc-Def-Art noun|nounour-Masc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBL-MOD 4|5|DET 5|3|NSUBJ 6|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*FAT:	xxx .
+*CHI:	caca nounou(r)s .
+%mor:	noun|caca-Masc adj|nounour-Pos-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*FAT:	je t'aide un tout p(e)tit peu .
+%mor:	pron|moi-Prs-Nom-S1 pron|toi-Prs-S2~verb|aider-Fin-Ind-Pres-S1 det|un-Masc-Ind-Art adv|tout adj|petit-Pos-S1 noun|peu-Masc .
+%gra:	1|3|NSUBJ 2|3|IOBJ 3|7|ROOT 4|7|DET 5|6|ADVMOD 6|4|FIXED 7|3|OBJ 8|3|PUNCT
+*CHI:	<caca nounou(r)s> [/] caca nounou(r)s .
+%mor:	noun|caca-Masc adj|nounour-Pos-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*CHI:	c'est un caca nununus@c .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|caca-Masc x|nununus .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|FLAT-NAME 6|4|PUNCT
+*CHI:	c'est quoi nounou(r)s ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 noun|nounour-Masc ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|FLAT-NAME 5|3|PUNCT
+*CHI:	c'est quoi le nounou(r)s ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 det|le-Masc-Def-Art noun|nounour-Masc ?
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|DET 5|3|DISLOCATED 6|3|PUNCT
+*CHI:	c'est quoi un nounou(r)s ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 det|un-Masc-Ind-Art noun|nounour-Masc ?
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|DET 5|3|DISLOCATED 6|3|PUNCT
+*CHI:	il est lÃ  .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*CHI:	oh (i)l est lÃ  .
+%mor:	intj|oh pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBL-ARG 5|3|PUNCT
+*CHI:	oh (.) lÃ  ?
+%mor:	intj|oh adv|lÃ  ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	oui (.) tout Ã  fait .
+%mor:	intj|oui adv|tout adp|Ã  noun|fait-Masc .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|2|FIXED 4|2|FIXED 5|1|PUNCT
+*FAT:	Ã§a c'est un petit Ã©lÃ©phant .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art adj|petit-Pos-S1 noun|Ã©lÃ©phant-Masc .
+%gra:	1|6|DISLOCATED 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	(v)oilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	Ã§a aussi c'est un petit Ã©lÃ©phant (.) mais ce(l)ui-lÃ  il est dans [/] dans une voiture .
+%mor:	pron|Ã§a-Dem-S3 adv|aussi pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art adj|petit-Pos-S1 noun|Ã©lÃ©phant-Masc cconj|mais intj|celuilÃ  pron|lui-Prs-Nom-S3 verb|Ãªtre-Fin-Ind-Pres-S3 adp|dans det|un-Fem-Ind-Art noun|voiture-Fem .
+%gra:	1|7|DISLOCATED 2|1|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|14|ROOT 8|11|CC 9|11|DISCOURSE 10|11|NSUBJ 11|7|CONJ 12|14|CASE 13|14|DET 14|11|OBL-ARG 15|7|PUNCT
+*FAT:	et puis Ã§a c'est quoi (.) Marie ?
+%mor:	cconj|et cconj|puis pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 noun|Marie ?
+%gra:	1|6|CC 2|1|FIXED 3|6|DISLOCATED 4|6|NSUBJ 5|6|COP 6|7|ROOT 7|6|FLAT-NAME 8|6|PUNCT
+*CHI:	(k)o(a)la .
+%mor:	noun|koala-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais (.) koala .
+%mor:	intj|ouais intj|koala .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	(k)o(a)la ?
+%mor:	noun|koala-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	et puis Ã§a c'est quoi ?
+%mor:	cconj|et cconj|puis pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 intj|quoi ?
+%gra:	1|5|CC 2|1|FIXED 3|5|DISLOCATED 4|5|NSUBJ 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+*FAT:	un pingouin ?
+%mor:	det|un-Masc-Ind-Art noun|pingouin-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	(k)o(a)la .
+%mor:	noun|koala-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	oh (.) ko(a)la .
+%mor:	intj|oh intj|koala .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	Ã§a ?
+%mor:	pron|Ã§a-Dem-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ã§a ?
+%mor:	pron|Ã§a-Dem-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	<aka@u la boule> [/] <aka@u la boule> [/] aka@u la boule ?
+%mor:	intj|aka det|le-Fem-Def-Art noun|boule-Fem ?
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*FAT:	si tu veux (.) oui .
+%mor:	sconj|si pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 intj|oui .
+%gra:	1|3|MARK 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	t(u) arrives pas Ã  les attraper ?
+%mor:	pron|toi-Prs-Nom-S2 verb|arriver-Fin-Ind-Pres-S2 adv|pas adp|Ã  pron|eux-Prs-Acc-P3 verb|attraper-Inf-S ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|ADVMOD 4|6|MARK 5|6|OBJ 6|2|XCOMP 7|2|PUNCT
+*FAT:	ah (.) Ã§a va .
+%mor:	intj|ah pron|Ã§a-Dem-S3 verb|aller-Fin-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	Ã§a va ?
+%mor:	pron|Ã§a-Dem-S3 verb|aller-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	Ã§a va .
+%mor:	pron|Ã§a-Dem-S3 verb|aller-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	<Ã§a va> [/] Ã§a va ?
+%mor:	pron|Ã§a-Dem-S3 verb|aller-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	voilÃ  [/] voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux faire quoi avec tes boules ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|faire-Inf-S pron|quoi-Int-Acc-S1 adp|avec det|son-Def-Prs noun|boule-Fem-Plur ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL-MOD 8|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie joue avec ses billes .
+*CHI:	la balle lÃ  .
+%mor:	det|le-Fem-Def-Art noun|balle-Fem adv|lÃ  .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	É˜la@u [/] É˜la@u .
+%mor:	intj|É˜la .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui (.) Ã§a va lÃ  dedans .
+%mor:	intj|oui pron|Ã§a-Dem-S3 verb|aller-Fin-Ind-Pres-S3 adv|lÃ  adv|dedans .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*FAT:	tu veux que je mette Ã§a en place ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 sconj|que pron|moi-Prs-Nom-S1 verb|mettre-Fin-Sub-Pres-S1 pron|Ã§a-Dem-S3 adp|en noun|place-Fem ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|5|OBJ 7|8|CASE 8|5|OBL-MOD 9|2|PUNCT
+*FAT:	tu me donnes la porte ?
+%mor:	pron|toi-Prs-Nom-S2 pron|moi-Prs-Acc-S1 verb|donner-Fin-Ind-Pres-S2 det|le-Fem-Def-Art noun|porte-Fem ?
+%gra:	1|3|NSUBJ 2|3|IOBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*FAT:	voilÃ  (.) c'est bon .
+%mor:	verb|voilÃ -Inf-S pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|bon-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx .
+*FAT:	oui (.) mais on a besoin de la clÃ© lÃ  pour ouvrir .
+%mor:	intj|oui cconj|mais pron|on-Ind-S3 verb|avoir-Fin-Ind-Pres-S3 noun|besoin-Masc adp|de det|le-Fem-Def-Art noun|clÃ©-Fem adv|lÃ  adp|pour verb|ouvrir-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|NSUBJ 4|11|ROOT 5|4|OBJ-LVC 6|8|CASE 7|8|DET 8|5|OBL-ARG 9|4|ADVMOD 10|11|MARK 11|4|ADVCL 12|4|PUNCT
+*FAT:	oui (.) c'est juste .
+%mor:	intj|oui pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|juste-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*FAT:	c'est la clÃ© jaune .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|le-Fem-Def-Art noun|clÃ©-Fem adj|jaune-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+*CHI:	xxx .
+*FAT:	non [/] non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'Ã©tait +//.
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Imp-S3 +//.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	voilÃ  c'Ã©tait juste .
+%mor:	verb|voilÃ -Inf-S pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Imp-S3 adj|juste-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	refais ce que tu viens de faire lÃ  avec la clÃ© !
+%mor:	verb|refaire-Fin-Imp-Pres-S2 pron|ce-Dem-S3 pron|que-Rel-Acc-S1 pron|toi-Prs-Nom-S2 verb|venir-Fin-Ind-Pres-S2 adp|de verb|faire-Inf-S adv|lÃ  adp|avec det|le-Fem-Def-Art noun|clÃ©-Fem !
+%gra:	1|11|ROOT 2|1|OBJ 3|7|OBJ 4|5|NSUBJ 5|2|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL-MOD 12|1|PUNCT
+*FAT:	d'accord ?
+%mor:	adp|de~noun|accord-Masc ?
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'Ã©tait dans l'autre sens .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Imp-S3 adp|dans det|le-Def-Art~adj|autre-Pos-S1 noun|sens-Masc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL-ARG 7|2|PUNCT
+*CHI:	la porte ?
+%mor:	det|le-Fem-Def-Art noun|porte-Fem ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	<la porte> [/] (.) la porte (.) la +/.
+%mor:	det|le-Fem-Def-Art noun|porte-Fem intj|la +/.
+%gra:	1|2|DET 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	et qu'est-ce qu'il y a derriÃ¨re la porte ?
+%mor:	cconj|et intj|questce pron|quil-Rel-S1 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 adp|derriÃ¨re det|le-Fem-Def-Art noun|porte-Fem ?
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|EXPL-COMP 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL-MOD 9|5|PUNCT
+*CHI:	un wawa@c .
+%mor:	det|un-Masc-Ind-Art noun|wawa-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	un chien oui (.) et puis quoi d'autre ?
+%mor:	det|un-Masc-Ind-Art noun|chien-Masc intj|oui cconj|et cconj|puis intj|quoi adp|de~pron|autre-Ind-S3 ?
+%gra:	1|2|DET 2|8|ROOT 3|2|DISCOURSE 4|6|CC 5|4|FIXED 6|2|CONJ 7|8|CASE 8|6|OBL-ARG 9|2|PUNCT
+*CHI:	xxx la dame .
+%mor:	det|le-Fem-Def-Art noun|dame-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	c'est a@u dame .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adp|Ã  noun|dame-Fem .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL-ARG 5|2|PUNCT
+*FAT:	c'est une dame .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Fem-Ind-Art noun|dame-Fem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*FAT:	tu viens regarder un livre ?
+%mor:	pron|toi-Prs-Nom-S2 verb|venir-Fin-Ind-Pres-S2 verb|regarder-Inf-S det|un-Masc-Ind-Art noun|livre-Masc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	É˜la@u dodo .
+%mor:	intj|É˜la noun|dodo-Masc .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	chut xxx .
+%mor:	intj|chut .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ta poupÃ©e est au lit .
+%mor:	det|son-Fem-Def-Prs noun|poupÃ©e-Fem verb|Ãªtre-Fin-Ind-Pres-S3 adp|Ã ~det|le-Masc-Def-Art noun|lit-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL-ARG 7|3|PUNCT
+*CHI:	dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	elle va faire dodo ?
+%mor:	pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 verb|faire-Inf-S noun|dodo-Masc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui ?
+%mor:	intj|oui ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'est bon .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|bon-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	elle est au lit ?
+%mor:	pron|lui-Prs-Nom-S3 verb|Ãªtre-Fin-Ind-Pres-S3 adp|Ã ~det|le-Masc-Def-Art noun|lit-Masc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|2|PUNCT
+*FAT:	elle dort dÃ©jÃ  ?
+%mor:	pron|lui-Prs-Nom-S3 verb|dortir-Fin-Ind-Pres-S3 adv|dÃ©jÃ  ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	xxx .
+*FAT:	ah (.) il faut fermer le lit .
+%mor:	intj|ah pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 verb|fermer-Inf-S det|le-Masc-Def-Art noun|lit-Masc .
+%gra:	1|3|DISCOURSE 2|3|EXPL-SUBJ 3|6|ROOT 4|3|CCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	je viens t'aider .
+%mor:	pron|moi-Prs-Nom-S1 verb|venir-Fin-Ind-Pres-S1 pron|toi-Prs-S2~verb|aider-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	elle fait dodo (.) d'accord .
+%mor:	pron|lui-Prs-Nom-S3 verb|faire-Fin-Ind-Pres-S3 noun|dodo-Masc adp|de~noun|accord-Masc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ-LVC 4|2|OBL-ARG 5|4|FIXED 6|2|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	va va lÃ  .
+%mor:	verb|aller-Fin-Ind-Pres-S3 verb|aller-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|3|ROOT 2|1|CCOMP 3|2|ADVMOD 4|1|PUNCT
+*CHI:	<va lÃ > [/] va lÃ  .
+%mor:	verb|aller-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	va lÃ  .
+%mor:	verb|aller-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<va lÃ > [/] va lÃ  .
+%mor:	verb|aller-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie range des jouets .
+*FAT:	c'est bien comme Ã§a ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adv|bien adp|comme pron|Ã§a-Dem-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL-MOD 6|3|PUNCT
+*CHI:	xxx .
+*CHI:	(i)l est papue@c Ã§a .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adj|papu-Pos-S1 pron|Ã§a-Dem-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISLOCATED 5|3|PUNCT
+*FAT:	oui (.) Ã§a c'est du papier .
+%mor:	intj|oui pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|du-Masc-Ind-Art noun|papier-Masc .
+%gra:	1|6|DISCOURSE 2|6|DISLOCATED 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	<Ã§a papier> [/] Ã§a papier .
+%mor:	pron|Ã§a-Dem-S3 noun|papier-Masc .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	papapa@u .
+%mor:	noun|papapa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ã§a [/] Ã§a papon@wp .
+%mor:	pron|Ã§a-Dem-S3 intj|paponp .
+%gra:	1|2|ROOT 2|1|NMOD 3|1|PUNCT
+*CHI:	xxx .
+%com:	Marie babille .
+*CHI:	xxx padon [: poisson] .
+%mor:	noun|poisson-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pazon [: poisson] .
+%mor:	noun|poisson-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pason [: poisson] .
+%mor:	noun|poisson-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu cherches le poisson ?
+%mor:	pron|toi-Prs-Nom-S2 verb|cherche-Fin-Ind-Pres-S2 det|le-Masc-Def-Art noun|poisson-Masc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	il est peut-Ãªtre ailleurs .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 noun|peutÃªtre-Masc adv|ailleurs .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*FAT:	je sais pas oÃ¹ il est dessinÃ© le poisson .
+%mor:	pron|moi-Prs-Nom-S1 verb|savoir-Fin-Ind-Pres-S1 adv|pas pron|oÃ¹-Rel-S1 pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|dessiner-Part-Past-S det|le-Masc-Def-Art noun|poisson-Masc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|ADVMOD 4|7|OBL-MOD 5|7|NSUBJ 6|7|AUX-PASS 7|2|CCOMP 8|9|DET 9|7|OBJ 10|2|PUNCT
+*FAT:	lÃ  il y avait un poisson .
+%mor:	adv|lÃ  pron|lui-Prs-Nom-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Imp-S3 det|un-Masc-Ind-Art noun|poisson-Masc .
+%gra:	1|4|ADVMOD 2|4|EXPL-SUBJ 3|4|EXPL-COMP 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx le pason [: poisson] ?
+%mor:	det|le-Masc-Def-Art noun|poisson-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	et puis de l'autre cÃ´tÃ© (.) qu'est-ce qu'il y avait ?
+%mor:	cconj|et cconj|puis adp|de det|le-Def-Art~adj|autre-Pos-S1 noun|cÃ´tÃ©-Masc intj|questce pron|quil-Rel-S1 pron|y-Prs-S3 verb|avoir-Fin-Ind-Imp-S3 ?
+%gra:	1|10|CC 2|1|FIXED 3|6|CASE 4|6|DET 5|6|AMOD 6|10|OBL-MOD 7|6|DISCOURSE 8|10|EXPL-SUBJ 9|10|EXPL-COMP 10|10|ROOT 11|10|PUNCT
+*CHI:	lÃ  (.) le lapin .
+%mor:	adv|lÃ  det|le-Masc-Def-Art noun|lapin-Masc .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*FAT:	oui (.) il y avait le lapin .
+%mor:	intj|oui pron|lui-Prs-Nom-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Imp-S3 det|le-Masc-Def-Art noun|lapin-Masc .
+%gra:	1|4|DISCOURSE 2|4|EXPL-SUBJ 3|4|EXPL-COMP 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx tayon [: crayon] .
+%mor:	noun|crayon-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux des crayons ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 det|un-Ind-Art noun|crayon-Masc-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	je crois qu'ils sont lÃ  .
+%mor:	pron|moi-Prs-Nom-S1 verb|croire-Fin-Ind-Pres-S1 pron|quil-Rel-S1 verb|Ãªtre-Fin-Ind-Pres-P3 adv|lÃ  .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBL-ARG 6|2|PUNCT
+*FAT:	tu les a mis dans la boÃ®te hier .
+%mor:	pron|toi-Prs-Nom-S2 pron|eux-Prs-Acc-P3 aux|avoir-Fin-Ind-Pres-S3 verb|mettre-Part-Past-S adp|dans det|le-Fem-Def-Art noun|boÃ®te-Fem adv|hier .
+%gra:	1|4|NSUBJ 2|4|OBJ 3|4|AUX-TENSE 4|8|ROOT 5|7|CASE 6|7|DET 7|4|OBL-ARG 8|4|ADVMOD 9|4|PUNCT
+*FAT:	tout ce qu'on met dans la boÃ®te +//.
+%mor:	adj|tout-Pos-S1 pron|ce-Dem-S3 pron|quon-Rel-S1 verb|mettre-Fin-Ind-Pres-S3 adp|dans det|le-Fem-Def-Art noun|boÃ®te-Fem +//.
+%gra:	1|2|AMOD 2|7|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL-ARG 8|2|PUNCT
+*FAT:	tu vois ?
+%mor:	pron|toi-Prs-Nom-S2 verb|voir-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hop lÃ  .
+%mor:	intj|hop adv|lÃ  .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	ah (.) Ã§a lÃ  .
+%mor:	intj|ah pron|Ã§a-Dem-S3 adv|lÃ  .
+%gra:	1|3|DISCOURSE 2|3|DEP 3|3|ROOT 4|3|PUNCT
+*FAT:	tu veux lequel ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|lequel-Rel-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	le rouge ?
+%mor:	det|le-Masc-Def-Art noun|rouge-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	lÃ  (.) Ã§a ?
+%mor:	adv|lÃ  pron|Ã§a-Dem-S3 ?
+%gra:	1|2|ROOT 2|1|OBL-MOD 3|1|PUNCT
+*FAT:	Ã§a ?
+%mor:	pron|Ã§a-Dem-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	le jaune ?
+%mor:	det|le-Masc-Def-Art noun|jaune-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  (.) padon [: poisson] dans l'eau .
+%mor:	adv|lÃ  noun|poisson-Masc adp|dans det|le-Def-Art~noun|eau-Fem .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*CHI:	xxx .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie manipule les crayons .
+*FAT:	qu'est-ce que tu veux qu'on dessine ?
+%mor:	intj|questce sconj|que pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|quon-Prs-S3 verb|dessiner-Fin-Ind-Pres-S3 ?
+%gra:	1|6|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|6|OBJ 6|4|XCOMP 7|1|PUNCT
+*CHI:	lÃ  ?
+%mor:	adv|lÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie dessine .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux que je te dessine un petit chien ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 sconj|que pron|moi-Prs-Nom-S1 pron|toi-Prs-Acc-S2 verb|dessiner-Fin-Ind-Pres-S1 det|un-Masc-Ind-Art adj|petit-Pos-S1 noun|chien-Masc ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|MARK 4|6|NSUBJ 5|6|IOBJ 6|2|CCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	donne moi les crayons !
+%mor:	verb|donner-Fin-Ind-Pres-S3 pron|moi-Prs-Nom-S1 det|le-Def-Art noun|crayon-Masc-Plur !
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*FAT:	il faut me laisser les crayons (.) si tu veux que je te dessine un petit chien .
+%mor:	pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 pron|moi-Prs-Acc-S1 verb|laisser-Inf-S det|le-Def-Art noun|crayon-Masc-Plur sconj|si pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 sconj|que pron|moi-Prs-Nom-S1 pron|toi-Prs-Acc-S2 verb|dessiner-Fin-Ind-Pres-S1 det|un-Masc-Ind-Art adj|petit-Pos-S1 noun|chien-Masc .
+%gra:	1|2|EXPL-SUBJ 2|16|ROOT 3|4|IOBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|13|MARK 11|13|NSUBJ 12|13|IOBJ 13|9|CCOMP 14|16|DET 15|16|AMOD 16|13|OBJ 17|2|PUNCT
+*CHI:	xxx wawa@c .
+%mor:	noun|wawa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais xxx .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	le wawa@c .
+%mor:	det|le-Masc-Def-Art noun|wawa-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	oui (.) le wawa@c .
+%mor:	intj|oui det|le-Masc-Def-Art noun|wawa-Masc .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  papa .
+%mor:	adv|lÃ  intj|papa .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	avec celui-lÃ  (.) on continue ?
+%mor:	adp|avec noun|celuilÃ -Masc pron|on-Ind-S3 verb|continuer-Fin-Ind-Pres-S3 ?
+%gra:	1|2|CASE 2|4|OBL-MOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	non ?
+%mor:	adv|non ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	il va pas bien celui-lÃ  ?
+%mor:	pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 adv|pas adv|bien intj|celuilÃ  ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|DISCOURSE 6|2|PUNCT
+*CHI:	co(mme) Ã§a .
+%mor:	adp|comme pron|Ã§a-Dem-S3 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*FAT:	lequel ?
+%mor:	pron|lequel-Rel-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	celui-lÃ  ?
+%mor:	intj|celuilÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	co(mme) Ã§a .
+%mor:	adp|comme pron|Ã§a-Dem-S3 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*FAT:	le jaune .
+%mor:	det|le-Masc-Def-Art noun|jaune-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	co(mme) Ã§a .
+%mor:	adp|comme pron|Ã§a-Dem-S3 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*FAT:	faut dessiner le poisson lÃ  ?
+%mor:	verb|falloir-Fin-Ind-Pres-S3 verb|dessiner-Inf-S det|le-Masc-Def-Art noun|poisson-Masc adv|lÃ  ?
+%gra:	1|5|ROOT 2|1|CCOMP 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	xxx .
+*CHI:	xxx wawa@c .
+%mor:	noun|wawa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(d'ac)cord ?
+%mor:	adp|de~noun|accord-Masc ?
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	xxx dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx wawa@c .
+%mor:	noun|wawa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie dessine et babille .
+*CHI:	xxx main .
+%mor:	noun|main-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	alors (.) tu veux qu'on dessine la main .
+%mor:	adv|alors pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|quon-Ind-S3 verb|dessiner-Fin-Ind-Pres-S3 det|le-Fem-Def-Art noun|main-Fem .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|7|ROOT 4|5|NSUBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*FAT:	mets ta main !
+%mor:	verb|mettre-Fin-Ind-Pres-P2 det|son-Fem-Def-Prs noun|main-Fem !
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FAT:	je te xxx .
+%mor:	pron|moi-Prs-Nom-S1 pron|toi-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	Ã©carte bien les doigts !
+%mor:	verb|Ã©carter-Fin-Ind-Pres-S3 adv|bien det|le-Def-Art noun|doigt-Masc-Plur !
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	xxx .
+*FAT:	d'accord (.) alors ouvre un peu les doigts +//.
+%mor:	adp|de~noun|accord-Masc adv|alors verb|ouvrir-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|peu-Masc det|le-Def-Art noun|doigt-Masc-Plur +//.
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|ADVMOD 4|8|ROOT 5|4|ADVMOD 6|5|FIXED 7|8|DET 8|4|OBJ 9|4|PUNCT
+*CHI:	xxx .
+*FAT:	pour que je puisse passer avec le crayon entre les doigts .
+%mor:	adp|pour sconj|que pron|moi-Prs-Nom-S1 verb|pouvoir-Fin-Sub-Pres-S1 verb|passer-Inf-S adp|avec det|le-Masc-Def-Art noun|crayon-Masc adp|entre det|le-Def-Art noun|doigt-Masc-Plur .
+%gra:	1|4|MARK 2|1|FIXED 3|4|NSUBJ 4|11|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL-ARG 9|11|CASE 10|11|DET 11|5|OBL-MOD 12|4|PUNCT
+*FAT:	tu vois ?
+%mor:	pron|toi-Prs-Nom-S2 verb|voir-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hop [/] hop [/] hop .
+%mor:	intj|hop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(v)oilÃ  papa .
+%mor:	verb|voilÃ -Inf-S noun|papa-Masc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	attends +//.
+%mor:	verb|attendre-Fin-Imp-Pres-S2 +//.
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hop .
+%mor:	intj|hop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	que j'ai fini .
+%mor:	sconj|que pron|moi-Prs-S1~aux|avoir-Fin-Ind-Pres-S1 verb|finir-Part-Past-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX-TENSE 4|4|ROOT 5|4|PUNCT
+*FAT:	encore le dernier doigt .
+%mor:	adv|encore det|le-Masc-Def-Art adj|dernier-Pos-S1 noun|doigt-Masc .
+%gra:	1|4|ADVMOD 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	voilÃ  (.) la main .
+%mor:	verb|voilÃ -Inf-S det|le-Fem-Def-Art noun|main-Fem .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FAT:	c'est quoi ici ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 adv|ici ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*FAT:	lÃ  ?
+%mor:	adv|lÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'est quoi cette partie lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 det|ce-Fem-Def-Dem noun|partie-Fem adv|lÃ  ?
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|5|DET 5|3|DISLOCATED 6|3|DISCOURSE 7|3|PUNCT
+*CHI:	xxx aussi .
+%mor:	adv|aussi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	aussi .
+%mor:	adv|aussi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	l'autre main aussi ?
+%mor:	det|le-Def-Art~adj|autre-Pos-S1 noun|main-Fem adv|aussi ?
+%gra:	1|3|DET 2|3|AMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on a fait qu'un doigt .
+%mor:	pron|on-Ind-S3 aux|avoir-Fin-Ind-Pres-S3 verb|faire-Part-Past-S det|quun-Masc-Def-Art noun|doigt-Masc .
+%gra:	1|3|NSUBJ 2|3|AUX-TENSE 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*FAT:	et les autres doigts alors ?
+%mor:	cconj|et det|le-Def-Art adj|autre-Pos-P1 noun|doigt-Masc-Plur adv|alors ?
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	lÃ  [/] lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	continue !
+%mor:	verb|continuer-Fin-Ind-Pres-S3 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	un autre doigt .
+%mor:	det|un-Masc-Ind-Art adj|autre-Pos-S1 noun|doigt-Masc .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*FAT:	un autre doigt .
+%mor:	det|un-Masc-Ind-Art adj|autre-Pos-S1 noun|doigt-Masc .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie dessine .
+*CHI:	non (.) pas Ã§a .
+%mor:	adv|non adv|pas pron|Ã§a-Dem-S3 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	(v)oilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%com:	Marie imite un chien .
+*CHI:	<co(u)cher papa> [/] <co(u)cher papa> [/] co(u)cher papa !
+%mor:	verb|coucher-Inf-S noun|papa-Masc !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	d'accord (.) je me couche .
+%mor:	adp|de~noun|accord-Masc pron|moi-Prs-Nom-S1 pron|moi-Prs-Acc-S1 verb|couche-Fin-Ind-Pres-S1 .
+%gra:	1|5|DISCOURSE 2|1|FIXED 3|5|NSUBJ 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	eh coucher .
+%mor:	intj|eh verb|coucher-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	coucher .
+%mor:	verb|coucher-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	te coucher .
+%mor:	pron|toi-Prs-Acc-S2 verb|coucher-Inf-S .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	comme Ã§a (.) Ã§a va ?
+%mor:	adp|comme pron|Ã§a-Dem-S3 pron|Ã§a-Dem-S3 verb|aller-Fin-Ind-Pres-S3 ?
+%gra:	1|2|CASE 2|4|OBL-MOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	tiens [/] tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ah elle est tombÃ©e la girafe .
+%mor:	intj|ah pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|tomber-Part-Past-S det|le-Fem-Def-Art noun|girafe-Fem .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX-TENSE 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	tiens [/] tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiens un +//.
+%mor:	intj|tenir pron|un-Ind-S3 +//.
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	encore ?
+%mor:	adv|encore ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	mon dieu (.) je vais Ãªtre recouvert de p(e)luches .
+%mor:	det|son-Def-Prs noun|dieu-Masc pron|moi-Prs-Nom-S1 verb|aller-Fin-Ind-Pres-S1 aux|Ãªtre-Inf-S verb|recouvrir-Part-Past-S adp|de noun|peluche-Fem-Plur .
+%gra:	1|2|DET 2|4|DISLOCATED 3|4|NSUBJ 4|8|ROOT 5|6|AUX-PASS 6|4|XCOMP 7|8|CASE 8|6|OBL-ARG 9|4|PUNCT
+*FAT:	il y en a encore ?
+%mor:	pron|lui-Prs-Nom-S3 pron|y-Prs-S3 pron|en-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 adv|encore ?
+%gra:	1|4|EXPL-SUBJ 2|4|EXPL-COMP 3|4|OBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	hein ?
+%mor:	intj|hein ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	encore d'autres ?
+%mor:	adv|encore det|un-Ind-Art~pron|autre-Ind-P3 ?
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qu'est-ce qui te reste ?
+%mor:	intj|questce pron|qui-Rel-Nom-S1 pron|toi-Prs-Acc-S2 verb|rester-Fin-Ind-Pres-S3 ?
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|OBJ 4|1|ACL-RELCL 5|1|PUNCT
+*CHI:	eh wawa@c .
+%mor:	intj|eh intj|wawa .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*FAT:	oh il y a le chien (.) oui .
+%mor:	intj|oh pron|lui-Prs-Nom-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 det|le-Masc-Def-Art noun|chien-Masc intj|oui .
+%gra:	1|4|DISCOURSE 2|4|EXPL-SUBJ 3|4|EXPL-COMP 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|DISCOURSE 8|4|PUNCT
+*CHI:	xxx .
+*CHI:	et tiens !
+%mor:	cconj|et intj|tenir !
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eh co(u)cher .
+%mor:	intj|eh verb|coucher-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	co(u)cher &~c &~c .
+%mor:	verb|coucher-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	aussi co(u)cher .
+%mor:	adv|aussi verb|coucher-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	eh co(u)cher .
+%mor:	intj|eh verb|coucher-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	aussi co(u)cher .
+%mor:	adv|aussi verb|coucher-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	eh couche .
+%mor:	intj|eh noun|couche-Fem .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	Marie aussi se couche ?
+%mor:	noun|Marie adv|aussi pron|soi-Prs-S3 verb|couche-Fin-Ind-Pres-S3 ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|EXPL-PASS 4|4|ROOT 5|4|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	ah oui .
+%mor:	intj|ah intj|oui .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	t(u) as de la place ?
+%mor:	pron|toi-Prs-Nom-S2 verb|avoir-Fin-Ind-Pres-S2 adp|de det|le-Fem-Def-Art noun|place-Fem ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|2|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	je me pousse un peu .
+%mor:	pron|moi-Prs-Nom-S1 pron|moi-Prs-Acc-S1 verb|pousser-Fin-Ind-Pres-S1 det|un-Masc-Ind-Art noun|peu-Masc .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|5|ROOT 4|3|ADVMOD 5|4|FIXED 6|3|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	t(u) es co(u)chÃ© .
+%mor:	pron|toi-Prs-Nom-S2 aux|Ãªtre-Fin-Ind-Pres-S2 verb|coucher-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*CHI:	voilÃ  [/] voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux aussi des p(e)luches avec toi ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 adv|aussi det|un-Ind-Art noun|peluche-Fem-Plur adp|avec pron|toi-Prs-Nom-S2 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|ADVMOD 4|5|DET 5|2|OBJ 6|7|CASE 7|2|OBL-MOD 8|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	je te passe ton nounours ?
+%mor:	pron|moi-Prs-Nom-S1 pron|toi-Prs-Acc-S2 verb|passer-Fin-Ind-Pres-S1 det|son-Def-Prs noun|nounour-Masc ?
+%gra:	1|3|NSUBJ 2|3|IOBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux ton guignol ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 det|son-Def-Prs noun|guignol-Masc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qu'est-ce que tu veux encore ?
+%mor:	intj|questce sconj|que pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 adv|encore ?
+%gra:	1|5|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|4|ADVMOD 6|1|PUNCT
+*FAT:	un lapin ?
+%mor:	det|un-Masc-Ind-Art noun|lapin-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	encore ?
+%mor:	adv|encore ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hm un autre petit lapin ?
+%mor:	intj|hm det|un-Masc-Ind-Art adj|autre-Pos-S1 adj|petit-Pos-S1 noun|lapin-Masc ?
+%gra:	1|5|DISCOURSE 2|5|DET 3|5|AMOD 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	qu'est-ce que tu veux encore ?
+%mor:	intj|questce sconj|que pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 adv|encore ?
+%gra:	1|5|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|4|ADVMOD 6|1|PUNCT
+*CHI:	xxx .
+*FAT:	le lapin ?
+%mor:	det|le-Masc-Def-Art noun|lapin-Masc ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	ah (.) je le garde celui-lÃ  ?
+%mor:	intj|ah pron|moi-Prs-Nom-S1 pron|lui-Prs-Acc-S3 verb|garder-Fin-Ind-Pres-S1 noun|celuilÃ -Masc ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	eh lapin .
+%mor:	intj|eh intj|lapin .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	ja@o [/] ja@o [/] ja@o .
+%mor:	intj|ja .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie crie .
+*FAT:	coucou .
+%mor:	noun|coucou-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie rit
+*CHI:	papa .
+%mor:	noun|papa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	le pÃ¨re rit
+*CHI:	coucou .
+%mor:	noun|coucou-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	coucou [/] (.) coucou [/] (.) coucou .
+%mor:	noun|coucou-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	coucou .
+%mor:	noun|coucou-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	coucou .
+%mor:	noun|coucou-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx bobo .
+%mor:	intj|bobo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu t'es fait bobo ?
+%mor:	pron|toi-Prs-Nom-S2 pron|toi-Prs-S2~aux|Ãªtre-Fin-Ind-Pres-S2 verb|faire-Part-Past-S noun|bobo-Masc ?
+%gra:	1|4|NSUBJ 2|4|OBJ 3|4|AUX-TENSE 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu as bobo oÃ¹ ?
+%mor:	pron|toi-Prs-Nom-S2 verb|avoir-Fin-Ind-Pres-S2 noun|bobo-Masc pron|oÃ¹-Rel-S1 ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx .
+*FAT:	au genoux ?
+%mor:	adp|Ã ~det|le-Masc-Def-Art noun|genou-Masc-Plur ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	<ta@u Didi> [/] ta@u Didi .
+%mor:	det|son-Fem-Def-Prs noun|Didi .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*FAT:	je prends Didi (.) voilÃ  .
+%mor:	pron|moi-Prs-Nom-S1 verb|prendre-Fin-Ind-Pres-S1 noun|Didi verb|voilÃ -Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|DISCOURSE 5|2|PUNCT
+*CHI:	lalat@c [/] (.) lalat@c .
+%mor:	noun|lalat-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux ta lolette ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 det|son-Fem-Def-Prs noun|lolette-Fem ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	ah oui .
+%mor:	intj|ah intj|oui .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	tu commences Ã  avoir faim Marie ?
+%mor:	pron|toi-Prs-Nom-S2 verb|commencer-Fin-Ind-Pres-S2 adp|Ã  verb|avoir-Inf-S noun|faim-Fem noun|Marie ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|5|NMOD-APPOS 7|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais ?
+%mor:	intj|ouais ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on va quand mÃªme aller manger ton chocolat .
+%mor:	pron|on-Ind-S3 verb|aller-Fin-Ind-Pres-S3 sconj|quand adv|mÃªme verb|aller-Inf-S verb|manger-Inf-S det|son-Def-Prs noun|chocolat-Masc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|ADVMOD 4|3|FIXED 5|2|XCOMP 6|5|XCOMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+*CHI:	xxx .
+%com:	Marie crie .
+*FAT:	xxx .
+%com:	le pÃ¨re imite Marie .
+*CHI:	elle est lÃ  la lalat@c papa .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  det|le-Fem-Def-Art noun|lalat-Fem noun|papa-Fem .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|6|ROOT 6|5|NMOD-APPOS 7|5|PUNCT
+*CHI:	papapa@u .
+%mor:	noun|papapa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	papapa@u sos@u .
+%mor:	noun|papapa-Masc noun|sos .
+%gra:	1|2|ROOT 2|1|NMOD 3|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sos@u .
+%mor:	noun|sos-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sos@u .
+%mor:	noun|sos-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sos@u .
+%mor:	noun|sos-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sos@u .
+%mor:	noun|sos-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	la sos@u voilÃ  .
+%mor:	det|le-Fem-Def-Art noun|sos-Fem verb|voilÃ -Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	eh sos@u .
+%mor:	intj|eh intj|sos .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	la lalat@c .
+%mor:	det|le-Fem-Def-Art noun|lalat-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	sos@u .
+%mor:	noun|sos-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sos@u .
+%mor:	noun|sos-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiens [/] tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux que j'aille prÃ©parer ton biberon ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 sconj|que pron|moi-Prs-S1~verb|ailler-Fin-Sub-Pres-S1 verb|prÃ©parer-Inf-S det|son-Def-Prs noun|biberon-Masc ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|5|XCOMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ah ma lalat@c .
+%mor:	intj|ah det|son-Fem-Def-Prs noun|lalat-Fem .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx pas lalat@c .
+%mor:	adv|pas noun|lalat-Masc .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	<tiens papa> [/] <tiens papa> [/] tiens papa !
+%mor:	intj|tenir noun|papa-Masc !
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	j'arrive .
+%mor:	pron|moi-Prs-S1~verb|arriver-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	tu veux garder la montre de papa ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|garder-Inf-S det|le-Fem-Def-Art noun|montre-Fem adp|de noun|papa-Masc ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|2|PUNCT
+*CHI:	Marie (.) tu veux garder la montre ?
+%mor:	noun|Marie pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|garder-Inf-S det|le-Fem-Def-Art noun|montre-Fem ?
+%gra:	1|3|DISLOCATED 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+*CHI:	mett(r)e dedans .
+%mor:	verb|mettre-Inf-S adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	tu veux la mettre dedans ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|lui-Prs-Acc-S3 verb|mettre-Inf-S adv|dedans ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|OBJ 4|2|XCOMP 5|4|ADVMOD 6|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu va arriver Ã  ouvrir Marie ?
+%mor:	pron|toi-Prs-Nom-S2 verb|aller-Fin-Ind-Pres-S2 verb|arriver-Inf-S adp|Ã  verb|ouvrir-Inf-S noun|Marie ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|2|PUNCT
+*FAT:	je crois qu'il est ouvert comme Ã§a Marie .
+%mor:	pron|moi-Prs-Nom-S1 verb|croire-Fin-Ind-Pres-S1 pron|quil-Rel-S1 aux|Ãªtre-Fin-Ind-Pres-S3 verb|ouvrir-Part-Past-S adp|comme pron|Ã§a-Dem-S3 noun|Marie .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|2|CCOMP 6|7|CASE 7|5|OBL-MOD 8|7|FLAT-NAME 9|2|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ti(c)ta(c) dedans .
+%mor:	intj|tictac adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	la ti(c)ta(c) (.) on va mettre dedans .
+%mor:	det|le-Fem-Def-Art noun|tictac-Fem pron|on-Ind-S3 verb|aller-Fin-Ind-Pres-S3 verb|mettre-Inf-S adv|dedans .
+%gra:	1|2|DET 2|4|DISLOCATED 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|ADVMOD 7|4|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on ferme ?
+%mor:	pron|on-Ind-S3 verb|fermer-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Didi [/] Didi dedans .
+%mor:	noun|Didi adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	ah (.) tu veux aussi mettre Didi dedans ?
+%mor:	intj|ah pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 adv|aussi verb|mettre-Inf-S noun|Didi adv|dedans ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|7|ROOT 4|3|ADVMOD 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|3|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on ferme ?
+%mor:	pron|on-Ind-S3 verb|fermer-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ti(c)-ta(c) ?
+%mor:	intj|tictac ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	la montre elle est dedans .
+%mor:	det|le-Fem-Def-Art noun|montre-Fem pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|dedans .
+%gra:	1|2|DET 2|4|DISLOCATED 3|4|NSUBJ 4|5|ROOT 5|4|OBL-ARG 6|4|PUNCT
+*CHI:	appuie .
+%mor:	verb|appuyer-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	co(mme) Ã§a .
+%mor:	adp|comme pron|Ã§a-Dem-S3 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	et Ã§a appuie .
+%mor:	cconj|et pron|Ã§a-Dem-S3 verb|appuyer-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*FAT:	il faut fermer ?
+%mor:	pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 verb|fermer-Inf-S ?
+%gra:	1|2|EXPL-SUBJ 2|3|ROOT 3|2|CCOMP 4|2|PUNCT
+*CHI:	ti(c)-ta(c) [/] ti(c)-ta(c) [/] ti(c)-ta(c) .
+%mor:	intj|tictac .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	mett(r)e .
+%mor:	verb|mettre-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux mettre la montre ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|mettre-Inf-S det|le-Fem-Def-Art noun|montre-Fem ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Didi .
+%mor:	noun|Didi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	balle .
+%mor:	noun|balle-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	la balle .
+%mor:	det|le-Fem-Def-Art noun|balle-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	tu cherches les balles ?
+%mor:	pron|toi-Prs-Nom-S2 verb|cherche-Fin-Ind-Pres-S2 det|le-Def-Art noun|balle-Fem-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	elles sont dans la boÃ®te lÃ -bas .
+%mor:	pron|eux-Prs-Nom-P3 verb|Ãªtre-Fin-Ind-Pres-P3 adp|dans det|le-Fem-Def-Art noun|boÃ®te-Fem adj|lÃ ba-Pos-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|5|AMOD 7|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  [/] (.) lÃ  [/] (.) lÃ  [/] (.) lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lalat@c [/] (.) lalat@c ?
+%mor:	noun|lalat-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	la lolette ?
+%mor:	det|le-Fem-Def-Art noun|lolette-Fem ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	elle est ici .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|ici .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*FAT:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux enlever le [//] la ti(c)-ta(c) ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|enlever-Inf-S det|le-Fem-Def-Art noun|tictac-Fem ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*FAT:	tu veux enlever la montre ou tu veux la garder ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|enlever-Inf-S det|le-Fem-Def-Art noun|montre-Fem cconj|ou pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|lui-Prs-Acc-S3 verb|garder-Inf-S ?
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|8|CC 7|8|NSUBJ 8|2|CONJ 9|10|OBJ 10|8|XCOMP 11|2|PUNCT
+*CHI:	xxx .
+*FAT:	elles vont tomber lÃ  .
+%mor:	pron|eux-Prs-Nom-P3 verb|aller-Fin-Ind-Pres-P3 verb|tomber-Inf-S adv|lÃ  .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|PUNCT
+*FAT:	hop .
+%mor:	intj|hop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	t(u) as vu oÃ¹ elle est allÃ©e la balle ?
+%mor:	pron|toi-Prs-Nom-S2 aux|avoir-Fin-Ind-Pres-S2 verb|voir-Part-Past-S pron|oÃ¹-Rel-S1 pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|aller-Part-Past-S det|le-Fem-Def-Art noun|balle-Fem ?
+%gra:	1|3|NSUBJ 2|3|AUX-TENSE 3|9|ROOT 4|7|OBL-MOD 5|7|NSUBJ 6|7|AUX-TENSE 7|3|CCOMP 8|9|DET 9|7|OBJ 10|3|PUNCT
+*FAT:	elle est ici .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|ici .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*CHI:	ici .
+%mor:	adv|ici .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fait dodo Didi ?
+%mor:	verb|faire-Fin-Ind-Pres-S3 noun|dodo-Masc noun|Didi ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*FAT:	tu peux mettre Didi avec si tu veux (.) oui .
+%mor:	pron|toi-Prs-Nom-S2 verb|pouvoir-Fin-Ind-Pres-S2 verb|mettre-Inf-S noun|Didi adp|avec sconj|si pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 intj|oui .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|XCOMP 4|3|OBJ 5|8|REPARANDUM 6|8|MARK 7|8|NSUBJ 8|3|ADVCL 9|8|OBJ 10|2|PUNCT
+*CHI:	fait dodo Didi ?
+%mor:	verb|faire-Fin-Ind-Pres-S3 noun|dodo-Masc noun|Didi ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	enlÃ¨ve ta lolette quand tu parles .
+%mor:	verb|enlever-Fin-Ind-Pres-S3 det|son-Fem-Def-Prs noun|lolette-Fem sconj|quand pron|toi-Prs-Nom-S2 verb|parler-Fin-Ind-Pres-S2 .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|MARK 5|6|NSUBJ 6|1|ADVCL 7|1|PUNCT
+*FAT:	on ne comprend pas sinon .
+%mor:	pron|on-Ind-S3 adv|ne verb|comprendre-Fin-Ind-Pres-S3 adv|pas adv|sinon .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*FAT:	qu'est-ce que tu dis ?
+%mor:	intj|questce sconj|que pron|toi-Prs-Nom-S2 verb|dire-Fin-Ind-Pres-S2 ?
+%gra:	1|4|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|1|PUNCT
+*FAT:	qu'est-ce que tu dis ?
+%mor:	intj|questce sconj|que pron|toi-Prs-Nom-S2 verb|dire-Fin-Ind-Pres-S2 ?
+%gra:	1|4|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|1|PUNCT
+*CHI:	lalat@c .
+%mor:	noun|lalat-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui (.) je sais que tu veux ta lolette (.) oui .
+%mor:	intj|oui pron|moi-Prs-Nom-S1 verb|savoir-Fin-Ind-Pres-S1 sconj|que pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 det|son-Fem-Def-Prs noun|lolette-Fem intj|oui .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|8|DET 8|6|OBJ 9|3|DISCOURSE 10|3|PUNCT
+*FAT:	quand tu parles il faut l'enlever (.) sinon on te comprend pas .
+%mor:	sconj|quand pron|toi-Prs-Nom-S2 verb|parler-Fin-Ind-Pres-S2 pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 pron|lui-Prs-S3~verb|enlever-Inf-S adv|sinon pron|on-Ind-S3 pron|toi-Prs-Acc-S2 verb|comprendre-Fin-Ind-Pres-S3 adv|pas .
+%gra:	1|3|MARK 2|3|NSUBJ 3|5|ADVCL 4|5|EXPL-SUBJ 5|12|ROOT 6|7|OBJ 7|5|CCOMP 8|11|ADVMOD 9|11|NSUBJ 10|11|OBJ 11|5|CONJ 12|11|ADVMOD 13|5|PUNCT
+*CHI:	hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	tiens [/] tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	co(u)cher .
+%mor:	verb|coucher-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	toi [/] toi te coucher .
+%mor:	pron|toi-Prs-Nom-S2 pron|toi-Prs-Acc-S2 verb|coucher-Inf-S .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+*FAT:	il faut que je me couche ?
+%mor:	pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 sconj|que pron|moi-Prs-Nom-S1 pron|moi-Prs-Acc-S1 verb|couche-Fin-Ind-Pres-S1 ?
+%gra:	1|2|EXPL-SUBJ 2|6|ROOT 3|6|MARK 4|6|NSUBJ 5|6|OBJ 6|2|CCOMP 7|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais (.) hop voilÃ  .
+%mor:	intj|ouais intj|hop verb|voilÃ -Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+*CHI:	aussi co(u)cher .
+%mor:	adv|aussi verb|coucher-Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	Marie aussi elle se couche ?
+%mor:	noun|Marie adv|aussi pron|lui-Prs-Nom-S3 pron|soi-Prs-S3 verb|couche-Fin-Ind-Pres-S3 ?
+%gra:	1|5|VOCATIVE 2|1|ADVMOD 3|5|NSUBJ 4|5|OBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie rit .
+*FAT:	il te plaÃ®t ton nouveau pyjama ?
+%mor:	pron|lui-Prs-Nom-S3 pron|toi-Prs-Acc-S2 verb|plaire-Fin-Ind-Pres-S3 det|son-Def-Prs adj|nouveau-Pos-S1 noun|pyjama-Masc ?
+%gra:	1|3|NSUBJ 2|3|IOBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qu'est-ce qu'il y a sur ton petit pyjama lÃ  ?
+%mor:	intj|questce pron|quil-Prs-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 adp|sur det|son-Def-Prs adj|petit-Pos-S1 noun|pyjama-Masc adv|lÃ  ?
+%gra:	1|4|DISCOURSE 2|4|EXPL-SUBJ 3|4|EXPL-COMP 4|9|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL-MOD 9|8|DISCOURSE 10|4|PUNCT
+*CHI:	des nounou(r)s .
+%mor:	det|un-Ind-Art noun|nounour-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	des nounours et puis il y a quoi d'autre ?
+%mor:	det|un-Ind-Art noun|nounour-Masc-Plur cconj|et cconj|puis pron|lui-Prs-Nom-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 adp|de~pron|autre-Ind-S3 ?
+%gra:	1|2|DET 2|7|DISLOCATED 3|7|CC 4|3|FIXED 5|7|EXPL-SUBJ 6|7|EXPL-COMP 7|10|ROOT 8|7|OBJ 9|10|CASE 10|8|NMOD 11|7|PUNCT
+*CHI:	xxx .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<mett(r)e dedans> [/] mett(r)e dedans .
+%mor:	verb|mettre-Inf-S adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	qu'est-ce que tu veux mettre dedans ?
+%mor:	intj|questce pron|que-Rel-Acc-S1 pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|mettre-Inf-S adv|dedans ?
+%gra:	1|6|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|ADVMOD 7|1|PUNCT
+*CHI:	lalat@c est dedans ?
+%mor:	noun|lalat-Masc aux|Ãªtre-Fin-Ind-Pres-S3 adv|dedans ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*FAT:	la lolette (.) tu veux la mettre dans la valise ?
+%mor:	det|le-Fem-Def-Art noun|lolette-Fem pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|lui-Prs-Acc-S3 verb|mettre-Inf-S adp|dans det|le-Fem-Def-Art noun|valise-Fem ?
+%gra:	1|2|DET 2|4|DISLOCATED 3|4|NSUBJ 4|9|ROOT 5|6|OBJ 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL-ARG 10|4|PUNCT
+*CHI:	ah (.) Didi .
+%mor:	intj|ah noun|Didi .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*FAT:	ton guignol aussi .
+%mor:	det|son-Def-Prs noun|guignol-Masc adv|aussi .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	ti(c)-ta(c) .
+%mor:	intj|tictac .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	la montre aussi .
+%mor:	det|le-Fem-Def-Art noun|montre-Fem adv|aussi .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	oh oui .
+%mor:	intj|oh intj|oui .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	et puis celle-ci aussi de lolette ?
+%mor:	cconj|et cconj|puis intj|celleci adv|aussi adp|de noun|lolette-Fem ?
+%gra:	1|3|CC 2|1|FIXED 3|6|ROOT 4|3|ADVMOD 5|6|CASE 6|3|NMOD 7|3|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on ferme ?
+%mor:	pron|on-Ind-S3 verb|fermer-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  (.) taton [: crayon] .
+%mor:	adv|lÃ  noun|crayon-Masc .
+%gra:	1|2|ROOT 2|1|OBL-MOD 3|1|PUNCT
+*FAT:	hein ?
+%mor:	intj|hein ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	les taton [: crayon] .
+%mor:	det|le-Def-Art noun|crayon-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	eh &~co co(u)cher .
+%mor:	intj|eh verb|coucher-Inf-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	couchÃ© maintenant .
+%mor:	verb|coucher-Part-Past-S adv|maintenant .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	toi aussi co(u)chÃ© .
+%mor:	pron|toi-Prs-Nom-S2 adv|aussi adj|couchÃ©-Pos-S1 .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|AMOD 4|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui (.) on est tous les deux couchÃ©s alors .
+%mor:	intj|oui pron|on-Ind-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adj|tout-Pos-P1 det|le-Def-Art num|deux verb|coucher-Part-Past-P adv|alors .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|AUX-PASS 4|6|AMOD 5|6|DET 6|7|OBL-MOD 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%com:	Marie rit .
+*MOT:	Pascal ?
+%mor:	noun|Pascal ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	c'est quand Ã§a ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 sconj|quand pron|Ã§a-Dem-S3 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	<co(u)cher maman> [/] co(u)cher maman .
+%mor:	verb|coucher-Inf-S noun|maman-Fem .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	c'est PÃ¢ques Ã§a ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|PÃ¢ques pron|Ã§a-Dem-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|FLAT-NAME 5|3|PUNCT
+*FAT:	oui (.) je pense .
+%mor:	intj|oui pron|moi-Prs-Nom-S1 verb|penser-Fin-Ind-Pres-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	doucement [/] (.) doucement [/] (.) doucement .
+%mor:	adv|doucement .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	regarde (.) regarde Marie !
+%mor:	verb|regarder-Fin-Ind-Pres-S3 verb|regarder-Fin-Ind-Pres-S3 noun|Marie !
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*FAT:	c'est qui lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 adv|lÃ  ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	xxx .
+*MOT:	et puis lÃ  (.) c'est qui ?
+%mor:	cconj|et cconj|puis adv|lÃ  pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 ?
+%gra:	1|6|CC 2|1|FIXED 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+*CHI:	kokodil@u .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	la mÃ¨re rit .
+*CHI:	kokodil@u .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	la mÃ¨re rit .
+*CHI:	kokodil@u .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'est pas un crocodile .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adv|pas det|un-Masc-Ind-Art noun|crocodile-Masc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|5|ROOT 6|5|PUNCT
+*FAT:	c'est ta cousine Odile .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|son-Fem-Def-Prs noun|cousine-Fem noun|Odile .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|NMOD-APPOS 6|4|PUNCT
+*CHI:	kokodil@u .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	presque Marie .
+%mor:	adv|presque noun|Marie .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	c'est +/.
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 +/.
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*MOT:	Odile .
+%mor:	noun|Odile .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	elle s'appelle Odile .
+%mor:	pron|lui-Prs-Nom-S3 pron|soi-Prs-S3~verb|appeler-Fin-Ind-Pres-S3 noun|Odile .
+%gra:	1|3|NSUBJ 2|3|EXPL-COMP 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	Odile c'est crocodile .
+%mor:	noun|Odile pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|crocodile-Masc .
+%gra:	1|4|DISLOCATED 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*FAT:	c'est mignon .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|mignon-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	faudra lui dire Ã§a .
+%mor:	verb|falloir-Fin-Ind-Fut-S3 pron|lui-Prs-Nom-S3 verb|dire-Inf-S pron|Ã§a-Dem-S3 .
+%gra:	1|4|ROOT 2|3|IOBJ 3|1|CCOMP 4|3|OBJ 5|1|PUNCT
+*MOT:	c'est Odile .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Odile .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	et regarde lÃ  !
+%mor:	cconj|et verb|regarder-Fin-Ind-Pres-S3 adv|lÃ  !
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	c'est qui lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 adv|lÃ  ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*MOT:	c'est qui lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 adv|lÃ  ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	papa .
+%mor:	noun|papa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et puis lÃ  ?
+%mor:	cconj|et cconj|puis adv|lÃ  ?
+%gra:	1|3|CC 2|1|FIXED 3|3|ROOT 4|3|PUNCT
+*CHI:	Marie .
+%mor:	noun|Marie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et puis lÃ  ?
+%mor:	cconj|et cconj|puis adv|lÃ  ?
+%gra:	1|3|CC 2|1|FIXED 3|3|ROOT 4|3|PUNCT
+*CHI:	maman .
+%mor:	noun|maman-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et lÃ  ?
+%mor:	cconj|et adv|lÃ  ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	kodil@c .
+%mor:	noun|kodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Christophe .
+%mor:	noun|Christophe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et puis derriÃ¨re Christophe (.) c'est qui ?
+%mor:	cconj|et cconj|puis adp|derriÃ¨re noun|Christophe pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 ?
+%gra:	1|6|CC 2|1|FIXED 3|4|CASE 4|6|OBL-MOD 5|6|NSUBJ 6|7|ROOT 7|6|XCOMP 8|6|PUNCT
+*CHI:	c'est kokodil@c .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|kokodil-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	c'est grand-maman .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|grandmaman-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	grand-maman et grand-papa .
+%mor:	noun|grandmaman-Masc cconj|et noun|grandpapa-Masc .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*MOT:	Ã§a c'est Christophe .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Christophe .
+%gra:	1|4|DISLOCATED 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	eh Ã§a ?
+%mor:	intj|eh pron|Ã§a-Dem-S3 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	et Ã§a c'est Odile .
+%mor:	cconj|et pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Odile .
+%gra:	1|5|CC 2|5|DISLOCATED 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	O(d)ile .
+%mor:	noun|Odile .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	et Ã§a ?
+%mor:	cconj|et pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*MOT:	Jean_Denis .
+%mor:	noun|JeanDenis .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a@u Ã§a ?
+%mor:	adp|Ã  pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	Muriel (.) Nicolas (.) Odile .
+%mor:	noun|Muriel noun|Nicolas noun|Odile .
+%gra:	1|3|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	et Ã§a ?
+%mor:	cconj|et pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*MOT:	et lÃ  ?
+%mor:	cconj|et adv|lÃ  ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*MOT:	regarde !
+%mor:	verb|regarder-Fin-Ind-Pres-S3 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	on voit mieux lÃ  .
+%mor:	pron|on-Ind-S3 verb|voir-Fin-Ind-Pres-S3 adv|mieux adv|lÃ  .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	c'est Didi .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Didi .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	oui c'est Didi .
+%mor:	intj|oui pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Didi .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	ah oui (.) c'est Didi .
+%mor:	intj|ah intj|oui pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Didi .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*MOT:	et Ã  cÃ´tÃ© lÃ  ?
+%mor:	cconj|et adp|Ã  noun|cÃ´tÃ©-Masc adv|lÃ  ?
+%gra:	1|3|CC 2|3|CASE 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	kokodil@c .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	Odile elle s'appelle .
+%mor:	noun|Odile pron|lui-Prs-Nom-S3 pron|soi-Prs-S3~verb|appeler-Fin-Ind-Pres-S3 .
+%gra:	1|4|DISLOCATED 2|4|NSUBJ 3|4|EXPL-COMP 4|4|ROOT 5|4|PUNCT
+*MOT:	Odile [/] (.) Odile .
+%mor:	noun|Odile .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et lÃ  ?
+%mor:	cconj|et adv|lÃ  ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	Didi .
+%mor:	noun|Didi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et Ã  cÃ´tÃ© ?
+%mor:	cconj|et adp|Ã  noun|cÃ´tÃ©-Masc ?
+%gra:	1|3|CC 2|3|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	toi .
+%mor:	pron|toi-Prs-Nom-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	moi ?
+%mor:	pron|moi-Prs-Nom-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et lÃ  ?
+%mor:	cconj|et adv|lÃ  ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	maman .
+%mor:	noun|maman-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	grand-papa .
+%mor:	noun|grandpapa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	grand-papa .
+%mor:	noun|grandpapa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	regarde !
+%mor:	verb|regarder-Fin-Ind-Pres-S3 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	grand-papa (.) grand-maman (.) Nicolas (.) Christophe .
+%mor:	noun|grandpapa-Masc adj|grandmaman-Pos-S1 noun|Nicolas noun|Christophe .
+%gra:	1|4|ROOT 2|1|AMOD 3|1|APPOS 4|3|FLAT-NAME 5|1|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	c'est Didi ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Didi ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	oui (.) c'est Didi oui .
+%mor:	intj|oui pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Didi intj|oui .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*CHI:	aussi .
+%mor:	adv|aussi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	l'autre ?
+%mor:	det|le-Def-Art~pron|autre-Ind-S3 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx va mettre dans l'album Marie .
+%mor:	verb|aller-Fin-Ind-Pres-S3 verb|mettre-Inf-S adp|dans det|le-Def-Art~noun|album-Masc noun|Marie .
+%gra:	1|6|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|5|APPOS 7|1|PUNCT
+*CHI:	hein hein ?
+%mor:	intj|hein intj|hein ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	il faudrait que je mette dans le sien celui-lÃ  ?
+%mor:	pron|lui-Prs-Nom-S3 verb|falloir-Fin-Cnd-Pres-S3 sconj|que pron|moi-Prs-Nom-S1 verb|mettre-Fin-Sub-Pres-S1 adp|dans det|le-Masc-Def-Art adj|sien-Pos-S1 noun|celuilÃ -Masc ?
+%gra:	1|2|EXPL-SUBJ 2|9|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|8|CASE 7|8|DET 8|5|OBL-ARG 9|8|COMPOUND 10|2|PUNCT
+*MOT:	lÃ  ?
+%mor:	adv|lÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	www .
+%com:	le pÃ¨re parle avec la mÃ¨re .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	on va mettre dans ton album Marie .
+%mor:	pron|on-Ind-S3 verb|aller-Fin-Ind-Pres-S3 verb|mettre-Inf-S adp|dans det|son-Def-Prs noun|album-Masc noun|Marie .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL-ARG 7|6|NMOD-APPOS 8|2|PUNCT
+*MOT:	on mettra dans ton album .
+%mor:	pron|on-Ind-S3 verb|mettre-Fin-Ind-Fut-S3 adp|dans det|son-Def-Prs noun|album-Masc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|2|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	on mettra celle-lÃ  chez nous .
+%mor:	pron|on-Ind-S3 verb|mettre-Fin-Ind-Fut-S3 noun|cellelÃ -Masc adp|chez pron|nous-Prs-P1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL-MOD 6|2|PUNCT
+*MOT:	www .
+%com:	la mÃ¨re parle avec le pÃ¨re .
+*CHI:	est kota@c ?
+%mor:	aux|Ãªtre-Fin-Ind-Pres-S3 noun|kota ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	kota@c ?
+%mor:	noun|kota ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	c'est Ã§a ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|Ã§a-Dem-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	c'est Nicolas oui (.) oui .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Nicolas intj|oui intj|oui .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|3|DISCOURSE 5|3|DISCOURSE 6|3|PUNCT
+*CHI:	Ã§a ?
+%mor:	pron|Ã§a-Dem-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Muriel .
+%mor:	noun|Muriel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tante Muriel .
+%mor:	noun|tante-Fem noun|Muriel .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*MOT:	c'est la soeur de Pascal .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|le-Fem-Def-Art noun|soeur-Fem adp|de noun|Pascal .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%com:	Marie prend les photos .
+*MOT:	non (.) non Marie .
+%mor:	adv|non adv|non noun|Marie .
+%gra:	1|3|ROOT 2|1|CONJ 3|1|APPOS 4|1|PUNCT
+*MOT:	tu gardes pas Ã§a .
+%mor:	pron|toi-Prs-Nom-S2 verb|garde-Fin-Ind-Pres-S2 adv|pas pron|Ã§a-Dem-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|ADVMOD 4|2|OBJ 5|2|PUNCT
+*MOT:	maman elle va le mettre dans l'album .
+%mor:	noun|maman-Fem pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 pron|lui-Prs-Acc-S3 verb|mettre-Inf-S adp|dans det|le-Def-Art~noun|album-Masc .
+%gra:	1|3|DISLOCATED 2|3|NSUBJ 3|8|ROOT 4|5|OBJ 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL-ARG 9|3|PUNCT
+*MOT:	je mettrai dans ton album .
+%mor:	pron|moi-Prs-Nom-S1 verb|mettre-Fin-Ind-Fut-S1 adp|dans det|son-Def-Prs noun|album-Masc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|2|PUNCT
+*MOT:	d'accord ?
+%mor:	adp|de~noun|accord-Masc ?
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	coller dans l'album de Marie .
+%mor:	verb|coller-Inf-S adp|dans det|le-Def-Art~noun|album-Masc adp|de noun|Marie .
+%gra:	1|6|ROOT 2|4|CASE 3|4|DET 4|1|OBL-MOD 5|6|CASE 6|4|NMOD 7|1|PUNCT
+*CHI:	xxx .
+*MOT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	co(u)cher maman .
+%mor:	verb|coucher-Inf-S noun|maman-Fem .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	au revoir Marie .
+%mor:	adp|Ã ~det|le-Masc-Def-Art verb|revoir-Inf-S noun|Marie .
+%gra:	1|4|ROOT 2|1|FIXED 3|1|FIXED 4|1|OBL-ARG 5|1|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	non quoi (.) ma puce ?
+%mor:	adv|non intj|quoi det|son-Fem-Def-Prs noun|puce-Fem ?
+%gra:	1|4|ROOT 2|1|FIXED 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	co(u)cher [/] co(u)cher [/] co(u)cher .
+%mor:	verb|coucher-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qui c'est qui doit Ãªtre couchÃ©e ?
+%mor:	pron|qui-Rel-Nom-S1 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 verb|devoir-Fin-Ind-Pres-S3 aux|Ãªtre-Inf-S adj|coucher-Pos-S1 ?
+%gra:	1|3|DISLOCATED 2|3|NSUBJ 3|5|REPARANDUM 4|5|NSUBJ 5|7|ROOT 6|5|XCOMP 7|6|XCOMP 8|5|PUNCT
+*CHI:	xxx maman .
+%mor:	noun|maman-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	mais maman elle est partie .
+%mor:	cconj|mais noun|maman-Fem pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|partir-Part-Past-S .
+%gra:	1|5|CC 2|5|DISLOCATED 3|5|NSUBJ 4|5|AUX-TENSE 5|5|ROOT 6|5|PUNCT
+*FAT:	elle est Ã  la cuisine .
+%mor:	pron|lui-Prs-Nom-S3 verb|Ãªtre-Fin-Ind-Pres-S3 adp|Ã  det|le-Fem-Def-Art noun|cuisine-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL-ARG 6|2|PUNCT
+*FAT:	je sais pas oÃ¹ .
+%mor:	pron|moi-Prs-Nom-S1 verb|savoir-Fin-Ind-Pres-S1 adv|pas pron|oÃ¹-Rel-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|ADVMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx Didi xxx dadan [: dedans] .
+%mor:	noun|Didi adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	ti@u dadan [: dedans] .
+%mor:	intj|ti adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	oui (.) <il est> [/] il est dedans ton guignol .
+%mor:	intj|oui pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|dedans det|son-Def-Prs noun|guignol-Masc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|DET 6|3|XCOMP 7|3|PUNCT
+*FAT:	tu veux ouvrir ta valise pour reprendre le guignol ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|ouvrir-Inf-S det|son-Fem-Def-Prs noun|valise-Fem adp|pour verb|reprendre-Inf-S det|le-Masc-Def-Art noun|guignol-Masc ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|2|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	non [/] non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ah (.) je reste couchÃ© moi .
+%mor:	intj|ah pron|moi-Prs-Nom-S1 verb|rester-Fin-Ind-Pres-S1 verb|coucher-Part-Past-S pron|moi-Prs-Nom-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|3|XCOMP 5|4|OBJ 6|3|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	<di@u dadan [: dedans]> [/] di@u dadan [: dedans] .
+%mor:	adp|di adv|dedans .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<i@u dadan [: dedans]> [/] <i@u dadan [: dedans]> [/] i@u dadan [: dedans] .
+%mor:	intj|i adv|dedans .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	est dedans Didi .
+%mor:	aux|Ãªtre-Fin-Ind-Pres-S3 adv|dedans noun|Didi .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	il est dedans Didi (.) oui .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|dedans noun|Didi intj|oui .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|3|DISLOCATED 5|3|DISCOURSE 6|3|PUNCT
+*CHI:	<se aussi co(u)chÃ©> [/] <se aussi co(u)chÃ©> [/] se aussi co(u)chÃ© .
+%mor:	pron|soi-Prs-S3 adv|aussi verb|coucher-Part-Past-S .
+%gra:	1|3|EXPL-PV 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*FAT:	se aussi couchÃ© ?
+%mor:	pron|soi-Prs-S3 adv|aussi verb|coucher-Part-Past-S ?
+%gra:	1|3|EXPL-PV 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie rit .
+*CHI:	xxx .
+*FAT:	tu veux qu'on ouvre le tiroir lÃ  ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|quon-Prs-S1 verb|ouvrir-Fin-Ind-Pres-S3 det|le-Masc-Def-Art noun|tiroir-Masc adv|lÃ  ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|2|PUNCT
+*FAT:	alors +/.
+%mor:	adv|alors +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	cassÃ© .
+%mor:	adj|cassÃ©-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ah (.) Ã§a c'est encore un bout de la chaise qui Ã©tait cassÃ©e Ã§a .
+%mor:	intj|ah pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adv|encore det|un-Masc-Ind-Art noun|bout-Masc adp|de det|le-Fem-Def-Art noun|chaise-Fem pron|qui-Rel-Nom-S1 aux|Ãªtre-Fin-Ind-Imp-S3 verb|casser-Part-Past-S pron|Ã§a-Dem-S3 .
+%gra:	1|7|DISCOURSE 2|7|DISLOCATED 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|DET 7|14|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|13|NSUBJ 12|13|AUX-PASS 13|7|ACL-RELCL 14|13|OBJ 15|7|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	papa xxx .
+%mor:	noun|papa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	papa xxx .
+%mor:	noun|papa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	bonjour ValÃ©rie .
+%mor:	noun|bonjour-Fem noun|ValÃ©rie .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	co(u)chÃ© [/] co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord (.) je reste couchÃ© .
+%mor:	adp|de~noun|accord-Masc pron|moi-Prs-Nom-S1 verb|rester-Fin-Ind-Pres-S1 verb|coucher-Part-Past-S .
+%gra:	1|4|DISCOURSE 2|1|FIXED 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	eh co(u)chÃ© .
+%mor:	intj|eh verb|coucher-Part-Past-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	co(u)chÃ© [/] co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<(i)l est co(u)chÃ©> [/] (i)l est co(u)chÃ© ?
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|coucher-Part-Past-S ?
+%gra:	1|3|NSUBJ 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*FAT:	on fait quoi une fois qu'on est couchÃ© Marie ?
+%mor:	pron|on-Ind-S3 verb|faire-Fin-Ind-Pres-S3 pron|quoi-Int-Acc-S1 det|un-Fem-Ind-Art noun|fois-Fem pron|quon-Rel-S1 aux|Ãªtre-Fin-Ind-Pres-S3 verb|coucher-Part-Past-S noun|Marie ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|5|DET 5|2|OBL-MOD 6|8|NSUBJ 7|8|AUX-PASS 8|5|ACL-RELCL 9|8|NSUBJ 10|2|PUNCT
+*CHI:	quoi ?
+%mor:	intj|quoi ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	qu'est-ce qu'on fait ?
+%mor:	intj|questce pron|quon-Rel-S1 verb|faire-Fin-Ind-Pres-S3 ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	<est co(u)chÃ©> [/] <est co(u)chÃ©> [/] est co(u)chÃ© .
+%mor:	aux|Ãªtre-Fin-Ind-Pres-S3 verb|coucher-Part-Past-S .
+%gra:	1|2|AUX-PASS 2|2|ROOT 3|2|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	est couchÃ© .
+%mor:	aux|Ãªtre-Fin-Ind-Pres-S3 verb|coucher-Part-Past-S .
+%gra:	1|2|AUX-PASS 2|2|ROOT 3|2|PUNCT
+*FAT:	ta poupÃ©e elle est couchÃ©e (.) oui .
+%mor:	det|son-Fem-Def-Prs noun|poupÃ©e-Fem pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adj|coucher-Pos-S1 intj|oui .
+%gra:	1|2|DET 2|5|DISLOCATED 3|5|NSUBJ 4|5|COP 5|6|ROOT 6|5|DISCOURSE 7|5|PUNCT
+*CHI:	co(u)chÃ©e [/] co(u)chÃ©e .
+%mor:	adj|coucher-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eh co(u)chÃ© .
+%mor:	intj|eh verb|coucher-Part-Past-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	o@u co(u)chÃ© .
+%mor:	noun|o verb|coucher-Part-Past-S .
+%gra:	1|2|ROOT 2|1|ACL 3|1|PUNCT
+*CHI:	eh co(u)chÃ© .
+%mor:	intj|eh verb|coucher-Part-Past-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	elle est couchÃ©e .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adj|coucher-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	couchÃ©e .
+%mor:	adj|coucher-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hm hm .
+%mor:	intj|hm intj|hm .
+%gra:	1|2|REPARANDUM 2|2|ROOT 3|2|PUNCT
+*CHI:	couchÃ©e ?
+%mor:	adj|coucher-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on est tous couchÃ©s .
+%mor:	pron|on-Ind-S3 aux|Ãªtre-Fin-Ind-Pres-S3 pron|tout-Ind-P3 verb|coucher-Part-Past-P .
+%gra:	1|4|NSUBJ 2|4|AUX-PASS 3|4|OBL-MOD 4|4|ROOT 5|4|PUNCT
+*CHI:	couchÃ©s .
+%mor:	verb|coucher-Part-Past-P .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on est tous couchÃ©s .
+%mor:	pron|on-Ind-S3 aux|Ãªtre-Fin-Ind-Pres-S3 pron|tout-Ind-P3 verb|coucher-Part-Past-P .
+%gra:	1|4|NSUBJ 2|4|AUX-PASS 3|4|OBL-MOD 4|4|ROOT 5|4|PUNCT
+*CHI:	sam@u !
+%mor:	noun|sam-Masc !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sam@u !
+%mor:	noun|sam-Masc !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	faut fermer les yeux aussi .
+%mor:	verb|falloir-Fin-Ind-Pres-S3 verb|fermer-Inf-S det|le-Def-Art noun|Å“il-Masc-Plur adv|aussi .
+%gra:	1|5|ROOT 2|1|CCOMP 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|1|PUNCT
+*FAT:	ah (.) d'accord .
+%mor:	intj|ah adp|de~noun|accord-Masc .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|FIXED 4|2|PUNCT
+*MOT:	Ã§a c'est Ã  la naissance de Nicolas .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adp|Ã  det|le-Fem-Def-Art noun|naissance-Fem adp|de noun|Nicolas .
+%gra:	1|6|DISLOCATED 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|8|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*MOT:	je sais pas lesquelles mettre .
+%mor:	pron|moi-Prs-Nom-S1 verb|savoir-Fin-Ind-Pres-S1 adv|pas pron|lequel-Rel-P1 verb|mettre-Inf-S .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|ADVMOD 4|5|OBJ 5|2|CCOMP 6|2|PUNCT
+*CHI:	xxx .
+*MOT:	oui (.) assieds toi Marie !
+%mor:	intj|oui verb|assiedtre-Fin-Ind-Pres-S2 pron|toi-Prs-Nom-S2 noun|Marie !
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|3|FLAT-NAME 5|2|PUNCT
+*CHI:	assis .
+%mor:	verb|asseoir-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	assis .
+%mor:	verb|asseoir-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mais lÃ  malheureusement elle est pas lÃ  donc .
+%mor:	cconj|mais adv|lÃ  adv|malheureusement pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|pas adv|lÃ  adv|donc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|8|ROOT 6|5|ADVMOD 7|5|OBL-ARG 8|5|ADVMOD 9|5|PUNCT
+*FAT:	qui ?
+%mor:	pron|qui-Rel-Nom-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	Nicolas ?
+%mor:	noun|Nicolas ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tu reconnais Marie ?
+%mor:	pron|toi-Prs-Nom-S2 verb|reconner-Fin-Ind-Pres-S2 noun|Marie ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a@u Ã§a ?
+%mor:	adp|Ã  pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	Ã§a c'est grand-maman .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|grandmaman-Pos-S1 .
+%gra:	1|4|DISLOCATED 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	o@u Ã§a ?
+%mor:	intj|o pron|Ã§a-Dem-S3 ?
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*MOT:	grand-papa .
+%mor:	noun|grandpapa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	o@u Ã§a ?
+%mor:	intj|o pron|Ã§a-Dem-S3 ?
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*MOT:	quoi Ã§a ?
+%mor:	intj|quoi pron|Ã§a-Dem-S3 ?
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	o@u Ã§a ?
+%mor:	intj|o pron|Ã§a-Dem-S3 ?
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*MOT:	c'est maman .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|maman-Fem .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	et Marie elle est oÃ¹ ?
+%mor:	cconj|et noun|Marie pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 pron|oÃ¹-Rel-S1 ?
+%gra:	1|5|CC 2|5|DISLOCATED 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	eh lÃ  .
+%mor:	intj|eh adv|lÃ  .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	elle est oÃ¹ Marie sur la photo ?
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 pron|oÃ¹-Rel-S1 noun|Marie adp|sur det|le-Fem-Def-Art noun|photo-Fem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|3|DISLOCATED 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+*FAT:	elle est lÃ  .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*CHI:	lÃ  .
+%mor:	adv|lÃ  .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	elle est lÃ  ?
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh oui (.) elle est lÃ  Marie .
+%mor:	intj|oh intj|oui pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  noun|Marie .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|6|ROOT 6|5|DISLOCATED 7|5|PUNCT
+*MOT:	elle a une tronche (.) t(u) as vu ?
+%mor:	pron|lui-Prs-Nom-S3 verb|avoir-Fin-Ind-Pres-S3 det|un-Fem-Ind-Art noun|tronche-Fem pron|toi-Prs-Nom-S2 aux|avoir-Fin-Ind-Pres-S2 verb|voir-Part-Past-S ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|NSUBJ 6|7|AUX-TENSE 7|2|CONJ 8|2|PUNCT
+*FAT:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	elle a pas de cheveux .
+%mor:	pron|lui-Prs-Nom-S3 verb|avoir-Fin-Ind-Pres-S3 adv|pas adp|de noun|cheveu-Masc-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|ADVMOD 4|5|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	on va montrer Ã  papa .
+%mor:	pron|on-Ind-S3 verb|aller-Fin-Ind-Pres-S3 verb|montrer-Inf-S adp|Ã  noun|papa-Masc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|CASE 5|3|OBL-ARG 6|2|PUNCT
+*MOT:	regarde !
+%mor:	verb|regarder-Fin-Ind-Pres-S3 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	c'Ã©tait quand ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Imp-S3 sconj|quand ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	il y a plus d'une annÃ©e ?
+%mor:	pron|lui-Prs-Nom-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 adv|plus adp|de~det|un-Fem-Ind-Art noun|annÃ©e-Fem ?
+%gra:	1|4|CASE 2|1|FIXED 3|1|FIXED 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL-ARG 8|4|PUNCT
+*MOT:	octobre nonante quatre .
+%mor:	noun|octobre-Masc adj|nonant-Pos-S1 num|quatre .
+%gra:	1|3|ROOT 2|1|AMOD 3|1|NMOD 4|1|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	www .
+%com:	la mÃ¨re et le pÃ¨re parlent ensemble .
+*MOT:	tu reconnais lÃ  qui c'est Marie ?
+%mor:	pron|toi-Prs-Nom-S2 verb|reconner-Fin-Ind-Pres-S2 adv|lÃ  pron|qui-Rel-Nom-S1 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|Marie ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|ADVMOD 4|7|NSUBJ 5|7|NSUBJ 6|7|COP 7|3|ACL-RELCL 8|2|PUNCT
+*CHI:	Ã§a ?
+%mor:	pron|Ã§a-Dem-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	c'est qui lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 adv|lÃ  ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	kokodil@c .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et lÃ  c'est qui ?
+%mor:	cconj|et adv|lÃ  pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 ?
+%gra:	1|4|CC 2|4|ADVMOD 3|5|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*MOT:	c'est qui lÃ  ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 adv|lÃ  ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*CHI:	kokodil@c .
+%mor:	noun|kokodil-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Christophe .
+%mor:	noun|Christophe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	et puis +//.
+%mor:	cconj|et cconj|puis +//.
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*MOT:	attends Marie !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 noun|Marie !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	attends (.) attends (.) attends !
+%mor:	verb|attendre-Fin-Imp-Pres-P2 verb|attendre-Fin-Ind-Pres-S2 verb|attendre-Fin-Ind-Pres-S2 !
+%gra:	1|3|ROOT 2|3|OBJ 3|1|CONJ 4|1|PUNCT
+*MOT:	non (.) non (.) non (.) doucement .
+%mor:	adv|non adv|non adv|non adv|doucement .
+%gra:	1|4|ROOT 2|4|REPARANDUM 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*MOT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mais regarde !
+%mor:	cconj|mais verb|regarder-Fin-Ind-Pres-S3 !
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*MOT:	regarde dÃ©jÃ  celle-lÃ  !
+%mor:	verb|regarder-Fin-Ind-Pres-S3 adv|dÃ©jÃ  noun|cellelÃ -Masc !
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBJ 4|1|PUNCT
+*MOT:	tu l'as dans la main .
+%mor:	pron|toi-Prs-Nom-S2 pron|lui-Prs-S3~verb|avoir-Fin-Ind-Pres-S2 adp|dans det|le-Fem-Def-Art noun|main-Fem .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL-MOD 7|3|PUNCT
+*MOT:	non (.) non .
+%mor:	adv|non adv|non .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	reste ici avec maman parce que maman va partir avec les photos aprÃ¨s !
+%mor:	verb|rester-Fin-Ind-Pres-S3 adv|ici adp|avec noun|maman-Fem adv|parce sconj|que noun|maman-Fem verb|aller-Fin-Ind-Pres-S3 verb|partir-Inf-S adp|avec det|le-Def-Art noun|photo-Fem-Plur adv|aprÃ¨s !
+%gra:	1|13|ROOT 2|1|ADVMOD 3|4|CASE 4|1|OBL-MOD 5|8|MARK 6|5|FIXED 7|8|NSUBJ 8|1|ADVCL 9|8|XCOMP 10|12|CASE 11|12|DET 12|9|OBL-ARG 13|9|ADVMOD 14|1|PUNCT
+*MOT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	maintenant montre Ã  papa !
+%mor:	adv|maintenant verb|montrer-Fin-Ind-Pres-S3 adp|Ã  noun|papa-Masc !
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|OBL-ARG 5|2|PUNCT
+*CHI:	xxx couchÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	t(u) es couchÃ© ?
+%mor:	pron|toi-Prs-Nom-S2 aux|Ãªtre-Fin-Ind-Pres-S2 verb|coucher-Part-Past-S ?
+%gra:	1|3|NSUBJ 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*MOT:	www .
+%com:	la mÃ¨re et le pÃ¨re parlent ensemble .
+*MOT:	non non Marie .
+%mor:	adv|non adv|non noun|Marie .
+%gra:	1|3|ROOT 2|1|CONJ 3|1|APPOS 4|1|PUNCT
+*MOT:	Ã§a c'est dans l'album .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adp|dans det|le-Def-Art~noun|album-Masc .
+%gra:	1|6|DISLOCATED 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	c'est qui ?
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	celle-lÃ  je la mets oÃ¹ ?
+%mor:	intj|cellelÃ  pron|moi-Prs-Nom-S1 pron|lui-Prs-Acc-S3 verb|mettre-Fin-Ind-Pres-S1 pron|oÃ¹-Rel-S1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	mets la chez elle !
+%mor:	intj|mets intj|la adp|chez pron|lui-Prs-Nom-S3 !
+%gra:	1|4|ROOT 2|1|FIXED 3|4|CASE 4|1|OBL-MOD 5|1|PUNCT
+*MOT:	et puis les autres ?
+%mor:	cconj|et cconj|puis det|le-Def-Art pron|autre-Ind-P3 ?
+%gra:	1|4|CC 2|1|FIXED 3|4|DET 4|4|ROOT 5|4|PUNCT
+*FAT:	chez nous .
+%mor:	adp|chez pron|nous-Prs-P1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	les deux ?
+%mor:	det|le-Def-Art num|deux ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	<te@u deux> [/] te@u deux ?
+%mor:	pron|toi-Prs-Acc-S2 num|deux ?
+%gra:	1|2|REPARANDUM 2|2|ROOT 3|2|PUNCT
+*MOT:	non Marie (.) maman elle va mettre dans l'album .
+%mor:	adv|non noun|Marie noun|maman-Fem pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 verb|mettre-Inf-S adp|dans det|le-Def-Art~noun|album-Masc .
+%gra:	1|5|DISCOURSE 2|5|DISLOCATED 3|2|FLAT-NAME 4|5|NSUBJ 5|9|ROOT 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL-ARG 10|5|PUNCT
+*CHI:	a@u Ã§a ?
+%mor:	adp|Ã  pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	elle va mettre dans l'album .
+%mor:	pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 verb|mettre-Inf-S adp|dans det|le-Def-Art~noun|album-Masc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL-ARG 7|2|PUNCT
+*CHI:	eh Ã§a ?
+%mor:	intj|eh pron|Ã§a-Dem-S3 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	oui (.) Ã§a aussi elle va mettre dans l'album .
+%mor:	intj|oui pron|Ã§a-Dem-S3 adv|aussi pron|lui-Prs-Nom-S3 verb|aller-Fin-Ind-Pres-S3 verb|mettre-Inf-S adp|dans det|le-Def-Art~noun|album-Masc .
+%gra:	1|5|DISCOURSE 2|5|DISLOCATED 3|5|ADVMOD 4|5|NSUBJ 5|9|ROOT 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL-ARG 10|5|PUNCT
+*MOT:	d'accord ?
+%mor:	adp|de~noun|accord-Masc ?
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*MOT:	tu pourras regarder dans l'album .
+%mor:	pron|toi-Prs-Nom-S2 verb|pouvoir-Fin-Ind-Pres-S2 verb|regarder-Inf-S adp|dans det|le-Def-Art~noun|album-Masc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL-MOD 7|2|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	merci .
+%mor:	intj|merci .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	celle-lÃ  j(e) te la laisse si tu veux .
+%mor:	intj|cellelÃ  pron|moi-Prs-Nom-S1 pron|toi-Prs-Acc-S2 pron|lui-Prs-Acc-S3 verb|laisser-Fin-Ind-Pres-S1 sconj|si pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|IOBJ 4|5|OBJ 5|8|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|5|PUNCT
+*CHI:	xxx .
+*MOT:	mais c'est fou les cheveux hein ?
+%mor:	cconj|mais pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|fou-Pos-S1 det|le-Def-Art noun|cheveu-Masc-Plur intj|hein ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|7|ROOT 5|6|DET 6|4|DISLOCATED 7|6|DISCOURSE 8|4|PUNCT
+*FAT:	hm hm .
+%mor:	intj|hm intj|hm .
+%gra:	1|2|REPARANDUM 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+%com:	Marie babille .
+*FAT:	ma puce xxx dans le bain (.) hein ?
+%mor:	det|son-Fem-Def-Prs noun|puce-Fem adp|dans det|le-Masc-Def-Art noun|bain-Masc intj|hein ?
+%gra:	1|2|DET 2|6|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|DISCOURSE 7|2|PUNCT
+*CHI:	osi@u ?
+%mor:	intj|osi ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	toi aussi ?
+%mor:	pron|toi-Prs-Nom-S2 adv|aussi ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	Ã§a veut dire quoi osi@u ?
+%mor:	pron|Ã§a-Dem-S3 verb|vouloir-Fin-Ind-Pres-S3 verb|dire-Inf-S intj|quoi intj|osi ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|3|DISCOURSE 5|3|DISCOURSE 6|2|PUNCT
+*CHI:	osi@u .
+%mor:	intj|osi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	osi@u [/] osi@u [/] osi@u [/] osi@u .
+%mor:	intj|osi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	quoi (.) tes p(e)luches elles viennent aussi dans le bain ?
+%mor:	pron|quoi-Int-Acc-S1 det|son-Def-Prs noun|peluche-Fem-Plur pron|eux-Prs-Nom-P3 verb|venir-Fin-Ind-Pres-P3 adv|aussi adp|dans det|le-Masc-Def-Art noun|bain-Masc ?
+%gra:	1|5|DISLOCATED 2|3|DET 3|5|DISLOCATED 4|5|NSUBJ 5|9|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL-ARG 10|5|PUNCT
+*CHI:	<osi@u si@u> [/] osi@u si@u osi@u .
+%mor:	intj|osi intj|si intj|osi .
+%gra:	1|3|ROOT 2|1|DEP 3|1|DISCOURSE 4|1|PUNCT
+*FAT:	qui c'est qui va aussi prendre un bain ?
+%mor:	pron|qui-Rel-Nom-S1 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 pron|qui-Rel-Nom-S1 verb|aller-Fin-Ind-Pres-S3 adv|aussi verb|prendre-Inf-S det|un-Masc-Ind-Art noun|bain-Masc ?
+%gra:	1|3|DISLOCATED 2|3|NSUBJ 3|5|REPARANDUM 4|5|NSUBJ 5|9|ROOT 6|5|ADVMOD 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+*CHI:	ma +//.
+%mor:	det|son-Fem-Def-Prs +//.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	papa .
+%mor:	noun|papa-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu peux aller Ã©teindre .
+%mor:	pron|toi-Prs-Nom-S2 verb|pouvoir-Fin-Ind-Pres-S2 verb|aller-Inf-S verb|Ã©teindre-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|XCOMP 5|2|PUNCT
+%com:	Marie s'amuse avec l'interrupteur de la lampe .
+*FAT:	Ã§a Ã©videmment c'est pratique ce petit escabeau pour atteindre les prises Ã©lectriques (.) hein ?
+%mor:	pron|Ã§a-Dem-S3 adv|Ã©videmment pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adj|pratique-Pos-S1 det|ce-Masc-Def-Dem adj|petit-Pos-S1 noun|escabeau-Masc adp|pour verb|atteindre-Inf-S det|le-Def-Art noun|prise-Fem-Plur adj|Ã©lectrique-Pos-P1 intj|hein ?
+%gra:	1|5|DISLOCATED 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|14|ROOT 6|8|DET 7|8|AMOD 8|5|DISLOCATED 9|10|MARK 10|8|ACL 11|12|DET 12|10|OBJ 13|12|AMOD 14|5|DISCOURSE 15|5|PUNCT
+*FAT:	les interrupteurs .
+%mor:	det|le-Def-Art noun|interrupteur-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	osi@u .
+%mor:	intj|osi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	www .
+%com:	la mÃ¨re parle avec le pÃ¨re .
+*CHI:	xxx .
+%com:	Marie babille .
+*FAT:	tu veux coiffer ta poupÃ©e ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 verb|coiffer-Inf-S det|son-Fem-Def-Prs noun|poupÃ©e-Fem ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*FAT:	brosser les cheveux ?
+%mor:	verb|brosser-Inf-S det|le-Def-Art noun|cheveu-Masc-Plur ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FAT:	oui ?
+%mor:	intj|oui ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	est couchÃ© .
+%mor:	aux|Ãªtre-Fin-Ind-Pres-S3 verb|coucher-Part-Past-S .
+%gra:	1|2|AUX-PASS 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+%com:	Marie babille .
+*CHI:	chut dodo .
+%mor:	intj|chut noun|dodo-Masc .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	chut [/] chut .
+%mor:	intj|chut .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	www .
+%com:	la mÃ¨re parle avec le pÃ¨re .
+*CHI:	la boule .
+%mor:	det|le-Fem-Def-Art noun|boule-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	non [/] non [/] non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ouais enfin bon (.) si tu veux .
+%mor:	intj|ouais adv|enfin intj|bon sconj|si pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|DISCOURSE 4|6|MARK 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*MOT:	finalement il y a des canards .
+%mor:	adv|finalement pron|lui-Prs-Nom-S3 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 det|un-Ind-Art noun|canard-Masc-Plur .
+%gra:	1|4|ADVMOD 2|4|EXPL-SUBJ 3|4|EXPL-COMP 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%com:	Marie joue .
+*FAT:	xxx .
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	je vais te le mettre par terre .
+%mor:	pron|moi-Prs-Nom-S1 verb|aller-Fin-Ind-Pres-S1 pron|toi-Prs-Acc-S2 pron|lui-Prs-Acc-S3 verb|mettre-Inf-S adp|par noun|terre-Fem .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|OBJ 4|5|OBJ 5|2|XCOMP 6|7|CASE 7|5|OBL-MOD 8|2|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	c'est chat lÃ -bas .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 noun|chat-Masc adj|lÃ ba-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*FAT:	Ã§a c'est un chat oui .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|chat-Masc intj|oui .
+%gra:	1|5|DISLOCATED 2|5|NSUBJ 3|5|COP 4|5|DET 5|6|ROOT 6|5|DISCOURSE 7|5|PUNCT
+*FAT:	et ici ?
+%mor:	cconj|et adv|ici ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*FAT:	lÃ  ?
+%mor:	adv|lÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	la boule .
+%mor:	det|le-Fem-Def-Art noun|boule-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	eh boule .
+%mor:	intj|eh noun|boule-Fem .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eh (pe)tit cana(r)d lÃ -bas .
+%mor:	intj|eh adj|petit-Pos-S1 noun|canard-Masc adj|lÃ ba-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+*FAT:	les petits canards .
+%mor:	det|le-Def-Art adj|petit-Pos-P1 noun|canard-Masc-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	oh Ã§a .
+%mor:	intj|oh pron|Ã§a-Dem-S3 .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*FAT:	Ã§a aussi c'est un petit canard (.) ouais .
+%mor:	pron|Ã§a-Dem-S3 adv|aussi pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art adj|petit-Pos-S1 noun|canard-Masc intj|ouais .
+%gra:	1|7|DISLOCATED 2|1|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|8|ROOT 8|7|DISCOURSE 9|7|PUNCT
+*MOT:	www .
+%com:	la mÃ¨re parle avec le pÃ¨re .
+*CHI:	kukuku@c lÃ -bas .
+%mor:	noun|kukuku adj|lÃ ba-Pos-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*FAT:	des poules (.) oui .
+%mor:	det|un-Ind-Art noun|poule-Fem-Plur intj|oui .
+%gra:	1|2|DET 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*FAT:	et puis Ã§a ?
+%mor:	cconj|et cconj|puis pron|Ã§a-Dem-S3 ?
+%gra:	1|3|CC 2|1|FIXED 3|3|ROOT 4|3|PUNCT
+*CHI:	chat .
+%mor:	noun|chat-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	non (.) c'est pas un chat Ã§a .
+%mor:	adv|non pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adv|pas det|un-Masc-Ind-Art noun|chat-Masc pron|Ã§a-Dem-S3 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET 6|7|ROOT 7|6|NMOD-APPOS 8|6|PUNCT
+*CHI:	eh wawa@c .
+%mor:	intj|eh intj|wawa .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*FAT:	non plus .
+%mor:	adv|non adv|plus .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	regarde !
+%mor:	verb|regarder-Fin-Ind-Pres-S3 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ils sont tout frisÃ©s .
+%mor:	pron|eux-Prs-Nom-P3 aux|Ãªtre-Fin-Ind-Pres-P3 adv|tout adj|frisÃ©-Pos-P1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	c'est des moutons .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Ind-Art noun|mouton-Masc-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx .
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	des moutons .
+%mor:	det|un-Ind-Art noun|mouton-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Ã§a ?
+%mor:	pron|Ã§a-Dem-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh Ã§a .
+%mor:	intj|oh pron|Ã§a-Dem-S3 .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*FAT:	Ã§a c'est des boutons .
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Ind-Art noun|bouton-Masc-Plur .
+%gra:	1|5|DISLOCATED 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	ja@o .
+%mor:	intj|ja .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie crie .
+*CHI:	il est dodo ?
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 noun|dodo-Masc ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	comme ceux qu'il y a sur le lit de Marie .
+%mor:	adp|comme pron|celui-Dem-P3 pron|quil-Rel-S1 pron|y-Prs-S3 verb|avoir-Fin-Ind-Pres-S3 adp|sur det|le-Masc-Def-Art noun|lit-Masc adp|de noun|Marie .
+%gra:	1|2|CASE 2|10|ROOT 3|5|NSUBJ 4|5|EXPL-COMP 5|2|ACL-RELCL 6|8|CASE 7|8|DET 8|5|OBL-MOD 9|10|CASE 10|8|NMOD 11|2|PUNCT
+*CHI:	xxx dodo ?
+%mor:	noun|dodo-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(en)core dodo ?
+%mor:	adv|encore noun|dodo-Masc ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	on peut faire dodo sur la couverture (.) oui .
+%mor:	pron|on-Ind-S3 verb|pouvoir-Fin-Ind-Pres-S3 verb|faire-Inf-S noun|dodo-Masc adp|sur det|le-Fem-Def-Art noun|couverture-Fem intj|oui .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|XCOMP 4|3|OBJ-LVC 5|7|CASE 6|7|DET 7|3|OBL-MOD 8|2|DISCOURSE 9|2|PUNCT
+*CHI:	xxx ?
+*CHI:	dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	on fait un petit lit pour ValÃ©rie .
+%mor:	pron|on-Ind-S3 verb|faire-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art adj|petit-Pos-S1 noun|lit-Masc adp|pour noun|ValÃ©rie .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|CASE 7|2|OBL-MOD 8|2|PUNCT
+*CHI:	oui .
+%mor:	intj|oui .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oui ?
+%mor:	intj|oui ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	comme Ã§a ?
+%mor:	adp|comme pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx lÃ -bas (.) dodo .
+%mor:	noun|lÃ bas-Masc noun|dodo-Masc .
+%gra:	1|2|ROOT 2|1|NMOD 3|1|PUNCT
+*CHI:	Ã§a .
+%mor:	pron|Ã§a-Dem-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	tu veux encore lui mettre son sac de couchage ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 adv|encore pron|lui-Prs-Nom-S3 verb|mettre-Inf-S det|son-Def-Prs noun|sac-Masc adp|de noun|couchage-Masc ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|ADVMOD 4|5|IOBJ 5|2|XCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|2|PUNCT
+*FAT:	le sac de couchage lÃ  ?
+%mor:	det|le-Masc-Def-Art noun|sac-Masc adp|de noun|couchage-Masc adv|lÃ  ?
+%gra:	1|2|DET 2|5|ROOT 3|4|CASE 4|2|NMOD 5|2|ADVMOD 6|2|PUNCT
+*CHI:	lÃ  ?
+%mor:	adv|lÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dodo [/] (.) dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	il est lÃ  dedans .
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  adv|dedans .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBL-ARG 4|2|ADVMOD 5|2|PUNCT
+*CHI:	xxx dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  (.) voilÃ  .
+%mor:	verb|voilÃ -Inf-S verb|voilÃ -Inf-S .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	xxx .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	la pose@u lÃ  .
+%mor:	det|le-Fem-Def-Art noun|pose-Fem adv|lÃ  .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	xxx sam@u (.) voilÃ  .
+%mor:	noun|sam-Masc verb|voilÃ -Inf-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	a@u sam@u .
+%mor:	adp|Ã  noun|sam-Masc .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	il faut que je mette la poupÃ©e lÃ -dessus ?
+%mor:	pron|lui-Prs-Nom-S3 verb|falloir-Fin-Ind-Pres-S3 sconj|que pron|moi-Prs-Nom-S1 verb|mettre-Fin-Sub-Pres-S1 det|le-Fem-Def-Art noun|poupÃ©e-Fem adj|lÃ dessus-Pos-S1 ?
+%gra:	1|2|EXPL-SUBJ 2|8|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|7|DET 7|5|OBJ 8|7|AMOD 9|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ouais ?
+%mor:	intj|ouais ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	assise ou couchÃ©e ?
+%mor:	noun|asseoir-Fem cconj|ou adj|coucher-Pos-S1 ?
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	o@u co(u)chÃ© lÃ -bas .
+%mor:	noun|o verb|coucher-Part-Past-S adj|lÃ ba-Pos-S1 .
+%gra:	1|3|ROOT 2|1|ACL 3|2|XCOMP 4|1|PUNCT
+*FAT:	couchÃ©e (.) d'accord .
+%mor:	verb|coucher-Part-Past-S adp|de~noun|accord-Masc .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|2|FIXED 4|1|PUNCT
+*FAT:	xxx .
+*CHI:	<a@u chat lÃ -bas> [/] a@u chat lÃ -bas .
+%mor:	adp|Ã  noun|chat-Masc noun|lÃ bas-Masc .
+%gra:	1|2|CASE 2|3|ROOT 3|2|NMOD 4|2|PUNCT
+*CHI:	lÃ -bas .
+%mor:	noun|lÃ bas-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<a@u chat lÃ -bas> [/] <a@u chat lÃ -bas> [/] <a@u chat lÃ -bas> [/] a@u chat lÃ -bas .
+%mor:	adp|Ã  noun|chat-Masc noun|lÃ bas-Masc .
+%gra:	1|2|CASE 2|3|ROOT 3|2|NMOD 4|2|PUNCT
+*FAT:	oui Ã§a c'est un chat lÃ  .
+%mor:	intj|oui pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|un-Masc-Ind-Art noun|chat-Masc adv|lÃ  .
+%gra:	1|6|DISCOURSE 2|6|DISLOCATED 3|6|NSUBJ 4|6|COP 5|6|DET 6|7|ROOT 7|6|DISCOURSE 8|6|PUNCT
+*FAT:	voilÃ  (.) j'ai mis ValÃ©rie .
+%mor:	verb|voilÃ -Inf-S pron|moi-Prs-S1~aux|avoir-Fin-Ind-Pres-S1 verb|mettre-Part-Past-S noun|ValÃ©rie .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX-TENSE 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx dodo .
+%mor:	noun|dodo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dodo dodo .
+%mor:	noun|dodo-Masc noun|dodo-Masc .
+%gra:	1|2|ROOT 2|1|NMOD 3|1|PUNCT
+*CHI:	tiens !
+%mor:	intj|tenir !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx assis .
+%mor:	verb|asseoir-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	assise ?
+%mor:	noun|asseoir-Fem ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	couchÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	d'accord .
+%mor:	adp|de~noun|accord-Masc .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+*CHI:	xxx .
+*FAT:	tu veux la couvrir ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|lui-Prs-Acc-S3 verb|couvrir-Inf-S ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|OBJ 4|2|XCOMP 5|2|PUNCT
+*FAT:	on lui mets son petit bonnet ?
+%mor:	pron|on-Ind-S3 pron|lui-Prs-Nom-S3 verb|mettre-Fin-Ind-Pres-S3 det|son-Def-Prs adj|petit-Pos-S1 noun|bonnet-Masc ?
+%gra:	1|3|NSUBJ 2|3|IOBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*FAT:	comme Ã§a ?
+%mor:	adp|comme pron|Ã§a-Dem-S3 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hop .
+%mor:	intj|hop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	xxx lÃ -bas .
+%mor:	noun|lÃ bas-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	t'assieds m@u papa .
+%mor:	pron|toi-Prs-S2~verb|assiedtre-Fin-Ind-Pres-S2 noun|mÃ¨tre-Masc noun|papa-Masc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*FAT:	je peux pas m'asseoir sur des petites chaises (.) Marie .
+%mor:	pron|moi-Prs-Nom-S1 verb|pouvoir-Fin-Ind-Pres-S1 adv|pas pron|moi-Prs-S1~verb|asseoir-Inf-S adp|sur det|un-Ind-Art adj|petit-Pos-P1 noun|chaise-Fem-Plur noun|Marie .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|ADVMOD 4|5|OBJ 5|2|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL-MOD 10|9|NMOD-APPOS 11|2|PUNCT
+*FAT:	je suis trop lourd .
+%mor:	pron|moi-Prs-Nom-S1 aux|Ãªtre-Fin-Ind-Pres-S1 adv|trop adj|lourd-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx .
+*FAT:	Ã§a risque de casser comme l'autre petite chaise .
+%mor:	pron|Ã§a-Dem-S3 verb|risquer-Fin-Ind-Pres-S3 adp|de verb|casser-Inf-S adp|comme det|le-Def-Art~adj|autre-Pos-S1 adj|petit-Pos-S1 noun|chaise-Fem .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|MARK 4|2|XCOMP 5|9|CASE 6|9|DET 7|9|AMOD 8|9|AMOD 9|4|OBL-MOD 10|2|PUNCT
+*CHI:	quoi ?
+%mor:	intj|quoi ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	je peux m'asseoir lÃ -dessus si tu veux .
+%mor:	pron|moi-Prs-Nom-S1 verb|pouvoir-Fin-Ind-Pres-S1 pron|moi-Prs-S1~verb|asseoir-Inf-S noun|lÃ dessus-Masc sconj|si pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|IOBJ 4|2|XCOMP 5|4|OBJ 6|8|MARK 7|8|NSUBJ 8|4|ADVCL 9|2|PUNCT
+*CHI:	non .
+%mor:	adv|non .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ah il est lÃ  .
+%mor:	intj|ah pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|lÃ  .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBL-ARG 5|3|PUNCT
+*CHI:	lÃ  (.) voilÃ  .
+%mor:	adv|lÃ  verb|voilÃ -Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	non (.) sur celle-lÃ  je peux pas m'asseoir non plus .
+%mor:	adv|non adp|sur noun|cellelÃ -Masc pron|moi-Prs-Nom-S1 verb|pouvoir-Fin-Ind-Pres-S1 adv|pas pron|moi-Prs-S1~verb|asseoir-Inf-S adv|non adv|plus .
+%gra:	1|5|DISCOURSE 2|3|CASE 3|5|OBL-MOD 4|5|NSUBJ 5|10|ROOT 6|5|ADVMOD 7|8|OBJ 8|5|XCOMP 9|8|ADVMOD 10|9|FIXED 11|5|PUNCT
+*CHI:	lÃ  ?
+%mor:	adv|lÃ  ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	non plus .
+%mor:	adv|non adv|plus .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	Ã§a c'est pour +//.
+%mor:	pron|Ã§a-Dem-S3 pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adp|pour +//.
+%gra:	1|3|DISLOCATED 2|3|NSUBJ 3|4|ROOT 4|3|OBL-ARG 5|3|PUNCT
+*FAT:	les petites chaises (.) c'est pour Marie .
+%mor:	det|le-Def-Art adj|petit-Pos-P1 noun|chaise-Fem-Plur pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adp|pour noun|Marie .
+%gra:	1|3|DET 2|3|AMOD 3|7|DISLOCATED 4|7|NSUBJ 5|7|COP 6|7|CASE 7|7|ROOT 8|7|PUNCT
+*FAT:	par contre le petit escabeau lÃ  (.) il est suffisamment solide pour que je m'assois dessus .
+%mor:	adp|par noun|contre det|le-Masc-Def-Art adj|petit-Pos-S1 noun|escabeau-Masc adv|lÃ  pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 adv|suffisamment adj|solide-Pos-S1 adp|pour sconj|que pron|moi-Prs-Nom-S1 pron|moi-Prs-S1~verb|asseoir-Fin-Ind-Pres-S1 adv|dessus .
+%gra:	1|10|ADVMOD 2|1|FIXED 3|5|DET 4|5|AMOD 5|10|DISLOCATED 6|5|ADVMOD 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|16|ROOT 11|15|MARK 12|15|MARK 13|15|NSUBJ 14|15|OBJ 15|10|ADVCL 16|15|ADVMOD 17|10|PUNCT
+*CHI:	pas papa le casser ?
+%mor:	adv|pas noun|papa-Masc pron|lui-Prs-Acc-S3 verb|casser-Inf-S ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|OBJ 4|2|ACL 5|2|PUNCT
+*CHI:	casser xxx papa .
+%mor:	verb|casser-Inf-S noun|papa-Masc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	non (.) celui-lÃ  doit pas casser si je m'assieds dessus .
+%mor:	adv|non intj|celuilÃ  verb|devoir-Fin-Ind-Pres-S3 adv|pas verb|casser-Inf-S sconj|si pron|moi-Prs-Nom-S1 pron|moi-Prs-S1~verb|assiedtre-Fin-Ind-Pres-S1 adv|dessus .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|3|ADVMOD 5|3|XCOMP 6|9|MARK 7|9|NSUBJ 8|9|OBJ 9|5|ADVCL 10|9|ADVMOD 11|3|PUNCT
+*FAT:	les petites chaises elles vont casser .
+%mor:	det|le-Def-Art adj|petit-Pos-P1 noun|chaise-Fem-Plur pron|eux-Prs-Nom-P3 verb|aller-Fin-Ind-Pres-P3 verb|casser-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|DISLOCATED 4|5|NSUBJ 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+*CHI:	(e)lle est cassÃ©(e) l'aut(re) chai(se) ?
+%mor:	pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|casser-Part-Past-S det|le-Def-Art~adj|autre-Pos-S1 noun|chaise-Fem ?
+%gra:	1|3|NSUBJ 2|3|AUX-PASS 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*FAT:	oui (.) l'autre chaise elle est cassÃ©e (.) oui .
+%mor:	intj|oui det|le-Def-Art~adj|autre-Pos-S1 noun|chaise-Fem pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|casser-Part-Past-S intj|oui .
+%gra:	1|7|DISCOURSE 2|4|DET 3|4|AMOD 4|7|DISLOCATED 5|7|NSUBJ 6|7|AUX-PASS 7|8|ROOT 8|7|DISCOURSE 9|7|PUNCT
+*CHI:	cassÃ©(e) cha(i)se .
+%mor:	verb|casser-Part-Past-S noun|chaise-Fem .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*FAT:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ -bas .
+%mor:	noun|lÃ bas-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	et c'est la balle Ã§a .
+%mor:	cconj|et pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 det|le-Fem-Def-Art noun|balle-Fem pron|Ã§a-Dem-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|6|ROOT 6|5|NMOD-APPOS 7|5|PUNCT
+*CHI:	lÃ -bas [/] lÃ -bas .
+%mor:	noun|lÃ bas-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  (.) Ã§a .
+%mor:	adv|lÃ  pron|Ã§a-Dem-S3 .
+%gra:	1|2|ROOT 2|1|OBL-MOD 3|1|PUNCT
+*CHI:	<xxx chaussons> [/] xxx chaussons .
+%mor:	noun|chausson-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	les chaussons je les ai mis juste lÃ  parce que t(u) as voulu les enlever .
+%mor:	det|le-Def-Art noun|chausson-Masc-Plur pron|moi-Prs-Nom-S1 pron|eux-Prs-Acc-P3 aux|avoir-Fin-Ind-Pres-S1 verb|mettre-Part-Past-S adv|juste adv|lÃ  adv|parce sconj|que pron|toi-Prs-Nom-S2 aux|avoir-Fin-Ind-Pres-S2 verb|vouloir-Part-Past-S pron|eux-Prs-Acc-P3 verb|enlever-Inf-S .
+%gra:	1|2|DET 2|6|DISLOCATED 3|6|NSUBJ 4|6|OBJ 5|6|AUX-TENSE 6|15|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|13|MARK 10|9|FIXED 11|13|NSUBJ 12|13|AUX-TENSE 13|6|ADVCL 14|15|OBJ 15|13|XCOMP 16|6|PUNCT
+*FAT:	ils sont lÃ  .
+%mor:	pron|eux-Prs-Nom-P3 aux|Ãªtre-Fin-Ind-Pres-P3 adv|lÃ  .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL-ARG 4|2|PUNCT
+*CHI:	me mett(r)e .
+%mor:	pron|moi-Prs-Acc-S1 verb|mettre-Inf-S .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	tu veux les mettre ?
+%mor:	pron|toi-Prs-Nom-S2 verb|vouloir-Fin-Ind-Pres-S2 pron|eux-Prs-Acc-P3 verb|mettre-Inf-S ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	t'assieds .
+%mor:	pron|toi-Prs-S2~verb|assiedtre-Fin-Ind-Pres-S2 .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	les toson [: chaussons] .
+%mor:	det|le-Def-Art noun|chausson-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	attends !
+%mor:	verb|attendre-Fin-Imp-Pres-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	toson [: chaussons] (.) voilÃ  .
+%mor:	noun|chausson-Masc-Plur verb|voilÃ -Inf-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lÃ  (.) voilÃ  .
+%mor:	adv|lÃ  verb|voilÃ -Inf-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	alors on met les chaussons ?
+%mor:	adv|alors pron|on-Ind-S3 verb|mettre-Fin-Ind-Pres-S3 det|le-Def-Art noun|chausson-Masc-Plur ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	ouais .
+%mor:	intj|ouais .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	laisse le !
+%mor:	verb|laisser-Fin-Ind-Pres-S3 det|le-Masc-Def-Art !
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+%com:	Marie part .
+*FAT:	eh bien (.) si tu pars en courant je vais pas pouvoir mettre tes chaussons .
+%mor:	intj|eh intj|bien sconj|si pron|toi-Prs-Nom-S2 verb|partir-Fin-Ind-Pres-S2 adp|en noun|courant-Masc pron|moi-Prs-Nom-S1 verb|aller-Fin-Ind-Pres-S1 adv|pas verb|pouvoir-Inf-S verb|mettre-Inf-S det|son-Def-Prs noun|chausson-Masc-Plur .
+%gra:	1|9|DISCOURSE 2|9|DISCOURSE 3|5|MARK 4|5|NSUBJ 5|9|ADVCL 6|7|CASE 7|5|OBL-MOD 8|9|NSUBJ 9|14|ROOT 10|9|ADVMOD 11|9|XCOMP 12|11|XCOMP 13|14|DET 14|12|OBJ 15|9|PUNCT
+*CHI:	xxx .
+*FAT:	tu fais attention avec les doigts avec le coffret .
+%mor:	pron|toi-Prs-Nom-S2 verb|faire-Fin-Ind-Pres-S2 noun|attention-Fem adp|avec det|le-Def-Art noun|doigt-Masc-Plur adp|avec det|le-Masc-Def-Art noun|coffret-Masc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ-LVC 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CASE 8|9|DET 9|2|OBL-MOD 10|2|PUNCT
+*FAT:	d'accord (.) il est fermÃ© .
+%mor:	adp|de~noun|accord-Masc pron|lui-Prs-Nom-S3 aux|Ãªtre-Fin-Ind-Pres-S3 verb|fermer-Part-Past-S .
+%gra:	1|5|DISCOURSE 2|1|FIXED 3|5|NSUBJ 4|5|AUX-PASS 5|5|ROOT 6|5|PUNCT
+*CHI:	papon@wp .
+%mor:	noun|paponp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie repÃ¨te le mot plusieurs fois , imitant le bruit des sirÃ¨nes .
+*FAT:	qu'est-ce que tu fais ?
+%mor:	intj|questce sconj|que pron|toi-Prs-Nom-S2 verb|faire-Fin-Ind-Pres-S2 ?
+%gra:	1|4|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|1|PUNCT
+*FAT:	le camion des pompiers lÃ  ?
+%mor:	det|le-Masc-Def-Art noun|camion-Masc det|un-Ind-Art noun|pompier-Masc-Plur adv|lÃ  ?
+%gra:	1|2|DET 2|5|ROOT 3|4|DET 4|2|NMOD 5|2|DISCOURSE 6|2|PUNCT
+*CHI:	papon@wp .
+%mor:	noun|paponp .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	Marie tape sur quelque chose .
+*FAT:	doucement Marie .
+%mor:	adv|doucement noun|Marie .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	Marie tape encore .
+*FAT:	Marie (.) doucement un peu .
+%mor:	noun|Marie adv|doucement det|un-Masc-Ind-Art noun|peu .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|3|FIXED 5|1|PUNCT
+*FAT:	c'est pas trÃ¨s solide (.) cette baguette .
+%mor:	pron|ce-Dem-S3~aux|Ãªtre-Fin-Ind-Pres-S3 adv|pas adv|trÃ¨s adj|solide-Pos-S1 det|ce-Fem-Def-Dem noun|baguette-Fem .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|DISLOCATED 8|5|PUNCT
+*CHI:	xxx .
+*CHI:	co(u)chÃ© [/] co(u)chÃ© .
+%mor:	verb|coucher-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	voilÃ  .
+%mor:	verb|voilÃ -Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End
